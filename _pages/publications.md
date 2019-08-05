@@ -40,10 +40,10 @@ Conference on Data Mining <b>(ICDM 2018)</b></i>.
 
 <b>DTRP: A Flexible Deep Framework for Travel Route Planning</b> <br> Jie Xu, <b>Chaozhuo Li</b>, Senzhang Wang, Feiran Huang, Zhoujun Li, Yueying He and Zhonghua Zhao. <i>In Proceedings of the 2017 International Conference on Web Information Systems Engineering <b>(WISE 2017)</b></i>.
 
-<b>Detecting Context Dependent Messages in a Conversational Environment</b> <b>Chaozhuo Li</b>, Yu Wu, Wei Wu, Chen Xing, Zhoujun Li and Ming Zhou. <i>In Proceedings of the 26th International Conference on Computational Linguistics <b>(COLING 2016)</b> </i>.
+<b>Detecting Context Dependent Messages in a Conversational Environment</b> <br> <b>Chaozhuo Li</b>, Yu Wu, Wei Wu, Chen Xing, Zhoujun Li and Ming Zhou. <i>In Proceedings of the 26th International Conference on Computational Linguistics <b>(COLING 2016)</b> </i>.
 
-<b>Exploring Social Network Information for Solving Cold Start in Product Recommendation</b> <b>Chaozhuo Li</b>, Fang Wang, Yang Yang, Zhoujun Li, Xiaoming Zhang. <i>In Proceedings of 2015 International Conference on Web Information Systems Engineering <b>(WISE 2015)</b> </i>.
+<b>Exploring Social Network Information for Solving Cold Start in Product Recommendation</b> <br> <b>Chaozhuo Li</b>, Fang Wang, Yang Yang, Zhoujun Li, Xiaoming Zhang. <i>In Proceedings of 2015 International Conference on Web Information Systems Engineering <b>(WISE 2015)</b> </i>.
 
-<b>Using Co-evolutionary Genetic Algorithm for Intrusion Detection in Cloud</b> <b>Chaozhuo Li</b>, Lin Cheng. <i>In Proceedings of Proceedings of the 2013 Fifth International Conference on Multimedia Information Networking and Security <b>(MINES 2013)</b> </i>.
+<b>Using Co-evolutionary Genetic Algorithm for Intrusion Detection in Cloud</b> <br> <b>Chaozhuo Li</b>, Lin Cheng. <i>In Proceedings of Proceedings of the 2013 Fifth International Conference on Multimedia Information Networking and Security <b>(MINES 2013)</b> </i>.
 
 
