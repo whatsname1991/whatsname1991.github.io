@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chaozhuo Li"
+title                    : "Chaozhuo Li, Beihang University"
 title_separator          : "-"
 name                     : &name "Chaozhuo Li"
-description              : &description "personal description"
+description              : &description "Ph.D. Candidate at Beihang University."
 url                      : https://whatsname1991.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "whatsname1991/whatsname1991.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Chaozhuo Li"
+  avatar           : "me.png"
+  bio              : "Ph.D. Candidate at Beihang University."
+  location         : "Beijing"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "whatsname1991"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/%E6%9C%9D%E5%8D%93-%E6%9D%8E-212b4ba9/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
