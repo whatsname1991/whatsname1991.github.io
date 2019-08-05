@@ -20,6 +20,8 @@ Data Science and Advanced Analytics <b>(DSAA 2019)</b></i>.
 
 <b>Sentiment analysis of social images via hierarchical deep fusion of content and links</b> <br> Jie Xu, Feiran Huang, Xiaoming Zhang, Senzhang Wang, <b>Chaozhuo Li</b>, Zhoujun Li and Yueying He. <i> Applied Soft Computing <b>(ASC 2019)</b></i>.
 
+<b>Visual-Textual Sentiment Classification with Bi-Directional Multi-Level Attention Network</b> <br> Jie Xu, Feiran Huang, Xiaoming Zhang, Senzhang Wang, <b>Chaozhuo Li</b>, Zhoujun Li and Yueying He. <i>Knowledge-based Systens <b>(KBS 2019)</b></i>.
+
 <b>Network embedding by fusing multimodal contents and links</b> <br> Feiran Huang, Xiaoming Zhang, Jie Xu, <b>Chaozhuo Li</b> and Zhoujun Li <i>Knowledge-based Systens <b>(KBS 2019)</b></i>.
 
 <b>Distribution Distance Minimization for Unsupervised User Identity Linkage</b> <br> <b>Chaozhuo Li</b>, Senzhang Wang, Philip S. Yu, Lei Zheng, Xiaoming Zhang, Zhoujun Li and Yanbo Liang. <i>In Proceedings of the 27th ACM International Conference on Information and Knowledge Management <b>(CIKM 2018)</b></i>.
