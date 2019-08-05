@@ -11,49 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Beijing University of Posts and Telecommunications, 2007-2011
+* M.S. in Beijing University of Posts and Telecommunications, 2011-2014
+* Ph.D in Beihang University, 2014-2019 (expected)
+* Joint training Ph.D in University of Illinois at Chicago, 2017-2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* The Institute of Intelligent Information Processing, Beihang University, Mar. 2016 - Sept. 2017 (18 months)
+  * Designed and implemented the financial opinion monitoring system for the Ministry of Finance, which located the sensitive information in websites and social medias. The major components are the real-time crawlers, natural language analysis part (e.g., topic detection, keywords/sentiment extraction) and the front end system.
+  * Designed and implemented the American politician analysis system. We collected almost all the bills and amendments submitted
+to the congress, along with the related politicians, votes and committees. Then we performed several mining tasks (e.g., bill passing prediction and politician tendency analysis) on the huge heterogeneous graph, which was stored by Neo4j.
+  * Supervisor: Zhoujun Li
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Microsoft Research at Asia (MSRA), Dec. 2014 - Mar. 2016 (15 months)
+  * Focused on the context aware dialogue system.
+  * Joined the development of the Chat Robot: XiaoIce, and implemented several XiaoIce extensions in different dialects.
+  * Supervisor: Wei Wu and Ming Zhou
+ 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Meituan Corporation, Oct. 2013 - Sept. 2014 (10 months)
+  * Joined in the Koala project to link identities in Meituan website and the Sina Weibo.
+  * Designed recommendation models based on the social information of Meituan users.
+  * Supervisor: Yanbo Liang
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* Siemens Ltd. (China), Sept. 2011 - Aug. 2013 (24 months)
+  * Participated in several engineering projects, including the Software Life Cycle Analysis Project, Project Management System and MM Recommendation System.
+  * Worked as the major developer and skilled in Java and J2EE.
+  * Supervisor: Huadong Yin
+
+* Baidu Online Network Technology Corporation, Mar. 2011 - Sept. 2011 (6 months)
+  * Designed and written the automated test scripts.
+  * Learned basic procedure of software testings.
+  * Supervisor: Changwei Wang
+
+
