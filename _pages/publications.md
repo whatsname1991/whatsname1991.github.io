@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Adversarial Learning for Weaklysupervised Social Network Alignment</b> <br> <b>Chaozhuo Li</b>, Senzhang Wang, Yukun Wang, Philip S. Yu, Yanbo Liang, Yun Liu and Ji Zhoujun Li. <i>In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence <b>(AAAI 2019)</b></i>.
+<b>Adversarial Learning for Weakly-supervised Social Network Alignment</b> <br> <b>Chaozhuo Li</b>, Senzhang Wang, Yukun Wang, Philip S. Yu, Yanbo Liang, Yun Liu and Ji Zhoujun Li. <i>In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence <b>(AAAI 2019)</b></i>.
 
 
 <b>Deep Distribution Network: Addressing the Data Sparsity Issue for Top-N Recommendation</b> <br> Lei Zheng, <b>Chaozhuo Li *</b>, Chun-Ta Lu, Jiawei Zhang, Philip S. Yu. <i>In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval <b>(SIGIR 2019)</b> (equal contribution)</i> .
@@ -15,7 +15,7 @@ author_profile: true
 
 <b>Adversarial learning for multi-view network embedding on incomplete graphs</b> <br> <b>Chaozhuo Li</b>, Senzhang Wang, Dejian Yang, Philip S. Yu, Yanbo Liang, Zhoujun Li. <i> Knowledge-based Systems <b>(KBS 2019)</b></i> .
 
-<b>MARS: Memory Attention-Aware Recommender System</b> <br> Lei Zheng, Chun-Ta Lu, Lifang He, Sihong Xie, He Huang, <>b>Chaozhuo Li</b>, Vahid Noroozi, Bowen Dong and Philip Yu. <i>In Proceedings of 6th IEEE International Conference on 
+<b>MARS: Memory Attention-Aware Recommender System</b> <br> Lei Zheng, Chun-Ta Lu, Lifang He, Sihong Xie, He Huang, <b>Chaozhuo Li</b>, Vahid Noroozi, Bowen Dong and Philip Yu. <i>In Proceedings of 6th IEEE International Conference on 
 Data Science and Advanced Analytics <b>(DSAA 2019)</b></i>.
 
 <b>Sentiment analysis of social images via hierarchical deep fusion of content and links</b> <br> Jie Xu, Feiran Huang, Xiaoming Zhang, Senzhang Wang, <b>Chaozhuo Li</b>, Zhoujun Li and Yueying He. <i> Applied Soft Computing <b>(ASC 2019)</b></i>.
