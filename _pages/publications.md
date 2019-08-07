@@ -10,7 +10,7 @@ author_profile: true
 <b>Deep Distribution Network: Addressing the Data Sparsity Issue for Top-N Recommendation</b> <br> Lei Zheng, <b>Chaozhuo Li *</b>, Chun-Ta Lu, Jiawei Zhang, Philip S. Yu. <i>In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval <b>(SIGIR 2019)</b> (equal contribution)</i> .
 
 
-<b>Multi-hot compact network embedding</b> <br> <b>Chaozhuo Li</b>, Lei Zheng ,Senzhang	Wang, Philip S. Yu, Zhoujun Li, Feiran Huang. <i></i>.
+<b>Multi-hot compact network embedding</b> <br> <b>Chaozhuo Li</b>, Lei Zheng ,Senzhang	Wang, Philip S. Yu, Zhoujun Li, Feiran Huang. <i>In Proceedings of the 28th ACM International Conference on Information and Knowledge Management <b>(CIKM 2019)</b></i>.
 
 
 <b>Adversarial learning for multi-view network embedding on incomplete graphs</b> <br> <b>Chaozhuo Li</b>, Senzhang Wang, Dejian Yang, Philip S. Yu, Yanbo Liang, Zhoujun Li. <i> Knowledge-based Systems <b>(KBS 2019)</b></i> .
