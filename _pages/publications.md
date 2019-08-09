@@ -12,6 +12,8 @@ author_profile: true
 
 <b>Multi-hot compact network embedding</b> <br> <b>Chaozhuo Li</b>, Lei Zheng ,Senzhang	Wang, Philip S. Yu, Zhoujun Li, Feiran Huang. <i>In Proceedings of the 28th ACM International Conference on Information and Knowledge Management <b>(CIKM 2019)</b></i>.
 
+<b>Partially Shared Adversarial Learning For Semi-supervised Multi-platform User Identity Linkage</b> <br> <b>Chaozhuo Li</b>, Senzhang Wang, Yanbo Liang, Philip S. Yu, Zhoujun Li. <i>In Proceedings of the 28th ACM International Conference on Information and Knowledge Management <b>(CIKM 2019)</b></i>.
+
 
 <b>Adversarial learning for multi-view network embedding on incomplete graphs</b> <br> <b>Chaozhuo Li</b>, Senzhang Wang, Dejian Yang, Philip S. Yu, Yanbo Liang, Zhoujun Li. <i> Knowledge-based Systems <b>(KBS 2019)</b></i> .
 
