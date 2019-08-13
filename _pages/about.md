@@ -14,6 +14,7 @@ redirect_from:
 * My research interests lie in graph mining, recommender system and NLP. 
 
 # News
+* One of our paper is accepted by EMNLP 2019!
 * Two of our paper are accepted by CIKM 2019!
 * One of our paper is accepted by DSAA 2019!
 * One of our paper is accepted by SIGIR 2019!
