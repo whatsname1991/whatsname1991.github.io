@@ -3,6 +3,9 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<b>Social Image Sentiment Analysis by Exploiting Multimodal Content and Heterogeneous Relations</b> <br> Jie Xu, Zhoujun Li, Feiran Huang, <b>Chaozhuo Li</b>, Philip S. Yu <i> IEEE Transactions on Industrial Informatics <b>(TII 2020)</b></i>.
+
+<b>Mixture Distribution Modeling for Scalable Graph-based Semi-supervised Learning</b> <br> Zhi Li, <b>Chaozhuo Li</b>, Liqun Yang, S Yu Philip, Zhoujun Li. <i> Knowledge-based Systems <b>(KBS 2020)</b></i>.
 
 <b>Adversarial Learning for Weakly-supervised Social Network Alignment</b> <br> <b>Chaozhuo Li</b>, Senzhang Wang, Yukun Wang, Philip S. Yu, Yanbo Liang, Yun Liu and Ji Zhoujun Li. <i>In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence <b>(AAAI 2019)</b></i>.
 
