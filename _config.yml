@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chaozhuo Li, Beihang University"
+title                    : "Chaozhuo Li, Microsoft Research Asia"
 title_separator          : "-"
 name                     : &name "Chaozhuo Li"
-description              : &description "Ph.D. Candidate at Beihang University."
+description              : &description "Researcher at Microsoft Research Asia."
 url                      : https://whatsname1991.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "whatsname1991/whatsname1991.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chaozhuo Li"
   avatar           : "WechatIMG38.jpeg"
-  bio              : "Ph.D. Candidate at Beihang University."
+  bio              : "Researcher at Microsoft Research Asia."
   location         : "Beijing"
   employer         :
   pubmed           : ""
