@@ -3,6 +3,16 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<b>AdsGNN: Behavior-Graph Augmented Relevance Modeling in Sponsored Search</b> <br>  <b>Chaozhuo Li </b>, Bochen Pang, Yuming Liu, Hao Sun, Zheng Liu, Xing Xie, Tianqi Yang, Yanling Cui, Liangjie Zhang, Qi Zhang <i>In Proceedings of the 44nd International ACM SIGIR Conference on Research and Development in Information Retrieval <b>(SIGIR 20121)</b></i> .
+
+
+<b>Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the US</b> <br> Estee Y. Cramer, ... ,<b>Chaozhuo Li</b>, ... <i>  medRxiv
+ <b>(medRxiv 2021)</b></i>.
+
+<b>Dual Self-Attention with Co-Attention Networks for Visual Question Answering</b> <br> Yun Liu, Xiaoming Zhang, Qianyun Zhang, <b>Chaozhuo Li</b>, Feiran Huang, Xianghong Tang, Zhoujun Li <i>  Pattern Recognition <b>(PR 2021)</b></i>.
+
+<b>Visual Sentiment Analysis With Social Relations-Guided Multiattention Networks</b> <br> Jie Xu, Zhoujun Li, Feiran Huang, <b>Chaozhuo Li</b>, Philip S. Yu <i>  IEEE Transactions on Cybernetics <b>(IEEE T CYBERNETICS 2020)</b></i>.
+
 <b>Social Image Sentiment Analysis by Exploiting Multimodal Content and Heterogeneous Relations</b> <br> Jie Xu, Zhoujun Li, Feiran Huang, <b>Chaozhuo Li</b>, Philip S. Yu <i> IEEE Transactions on Industrial Informatics <b>(TII 2020)</b></i>.
 
 <b>Mixture Distribution Modeling for Scalable Graph-based Semi-supervised Learning</b> <br> Zhi Li, <b>Chaozhuo Li</b>, Liqun Yang, S Yu Philip, Zhoujun Li. <i> Knowledge-based Systems <b>(KBS 2020)</b></i>.
