@@ -14,7 +14,6 @@ redirect_from:
 * My research interests lie in graph mining, recommender system and NLP. 
 
 # News
-<<<<<<< master
 
 * Two papers on geometric disentangeled CF and adaptive recommendation are accepted by SIGIR 2022!
 * One paper on multi-cascade social identity linkage is accepted by ICDE 2022. 
@@ -30,7 +29,6 @@ redirect_from:
 * One paper on COVID-19 prediction is accepted by PNAS (The Proceedings of the National Academy of Sciences) 2021.  
 * 
 * One paper is accepted by TYC 2020!
-=======
 * One paper is accepted by SIGIR 2021 as full paper!
 * One paper is accepted by Pattern Recognition 2021!
 * One paper is accepted by IEEE Transactions on Cybernetics 2020!
