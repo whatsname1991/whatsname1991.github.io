@@ -32,7 +32,7 @@ redirect_from:
 * One paper is accepted by SIGIR 2021 as full paper!
 * One paper is accepted by Pattern Recognition 2021!
 * One paper is accepted by IEEE Transactions on Cybernetics 2020!
->>>>>>> master
+
 * Two of our papers are accepted by KBS 2020 and TII 2020!
 * One of our paper is accepted by EMNLP 2019!
 * Two of our papers are accepted by CIKM 2019!
