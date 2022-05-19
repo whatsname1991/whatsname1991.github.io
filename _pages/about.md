@@ -15,6 +15,7 @@ redirect_from:
 
 # News
 
+* Two papers on graph-enhanced relevance modeling and fake news detection are accepted by KDD 2022!
 * Two papers on knowledge graph embedding and graph neural networks are accepted by ICML 2022!
 * Two papers on geometric disentangeled CF and adaptive recommendation are accepted by SIGIR 2022!
 * One paper on multi-cascade social identity linkage is accepted by ICDE 2022. 
