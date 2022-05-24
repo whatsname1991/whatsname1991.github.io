@@ -19,8 +19,9 @@ redirect_from:
 * Two papers on knowledge graph embedding and graph neural networks are accepted by ICML 2022!
 * Two papers on geometric disentangeled CF and adaptive recommendation are accepted by SIGIR 2022!
 * One paper on multi-cascade social identity linkage is accepted by ICDE 2022. 
-* One paper on graph-based recommendation is accepted by accepted by SDM 2022. 
-* One paper on scalable dense retrieval is accepted by Web Conference 2022.  
+* One paper on graph-based recommendation is accepted by SDM 2022. 
+* One paper on scalable dense retrieval is accepted by Web Conference 2022. 
+* One paper on COVID-19 prediction is accepted by PNAS (The Proceedings of the National Academy of Sciences) 2022.   
 
 * One paper on hubness-aware user identity linkage is accepted by CIKM 2021. 
 * One paper on VQA is accepted by PR 2021. 
@@ -28,7 +29,6 @@ redirect_from:
 * One paper on representation learning on textual graphs is accepted by NeurlPS 2021. 
 * One paper on utilizing advertiser information to boost Ads performance is accepted by EMNLP 2021. 
 * One paper on incorporating user behavior graph to enhance relevance modeling in Ads is accepted by SIGIR 2021. 
-* One paper on COVID-19 prediction is accepted by PNAS (The Proceedings of the National Academy of Sciences) 2021.  
 
 * One paper is accepted by TYC 2020!
 * One paper is accepted by SIGIR 2021 as full paper!
