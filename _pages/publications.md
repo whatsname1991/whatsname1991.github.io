@@ -3,66 +3,100 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-<b>AdsGNN: Behavior-Graph Augmented Relevance Modeling in Sponsored Search</b> <br>  <b>Chaozhuo Li </b>, Bochen Pang, Yuming Liu, Hao Sun, Zheng Liu, Xing Xie, Tianqi Yang, Yanling Cui, Liangjie Zhang, Qi Zhang <i>In Proceedings of the 44nd International ACM SIGIR Conference on Research and Development in Information Retrieval <b>(SIGIR 20121)</b></i> .
+
+(# denotes corresponding author, * denotes equal contributions)
+# 2024 
+1. **[AAAI]** Litian Zhang, Xiaoming Zhang, Linfeng Han, Ziyi Zhou, Feiran Huang, **Chaozhuo Li<sup>*</sup>**, Reinforced Adaptive Knowledge Learning for Multimodal Fake News Detection, The 38th Annual AAAI Conference on Artificial Intelligence. (CCF-A).
+2. **[AAAI]** Yijun Ma, **Chaozhuo Li**, Xiao Zhou, Tail-STEAK: Improve Friend Recommendation for Tail Users via Self-Training Enhanced Knowledge Distillation, The 38th Annual AAAI Conference on Artificial Intelligence. (CCF-A). 
 
 
-<b>Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the US</b> <br> Estee Y. Cramer, ... ,<b>Chaozhuo Li</b>, ... <i>  medRxiv
- <b>(medRxiv 2021)</b></i>.
+# 2023
+1. **[EMNLP]** Junhan Yang, Zheng Liu, **Chaozhuo Li**, Guangzhong Sun, Xing Xie, Longtriever: a Pre-trained Long Text Encoder for Dense Document Retrieval, Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing. (CCF-B)
+2. **[TPAMI]** Zhongyu Huang, Yingheng Wang, **Chaozhuo Li**, Huiguang He, Growing Like a Tree: Finding Trunks From Graph Skeleton Trees, IEEE Transactions on Pattern Analysis and Machine Intelligence. (CCF-A)
+3. **[NeurIPS]** Jun Yin, **Chaozhuo Li<sup>*</sup>**, Hao Yan, Jianxun Lian, Senzhang Wang, Train Once and Explain Everywhere: Pre-training Interpretable Graph Neural Networks, Thirty-seventh Conference on Neural Information Processing Systems. (CC-A)
+4. **[NuerIPS]** Senzhang Wang, Jun Yin, Chaozhuo Li, Xing Xie, Jianxin Wang, V-InFoR: A Robust Graph Neural Networks Explainer for Structurally Corrupted Graphs, Thirty-seventh Conference on Neural Information Processing Systems
+. (CCF-A)
+5. **[NuerIPS]** Zeyu Zhang, **Chaozhuo Li<sup>*</sup>**, Xu Chen, Xing Xie, Bayesian Active Causal Discovery with Multi-Fidelity Experiments, Thirty-seventh Conference on Neural Information Processing Systems. (CCF-A)
+6. **[NuerIPS]** Hao Yan, **Chaozhuo Li<sup>*</sup>**, Ruosong Long, Chao Yan, Jianan Zhao, Wenwen Zhuang, Jun Yin, Peiyan Zhang, Weihao Han, Hao Sun, Weiwei Deng, Qi Zhang, Lichao Sun, Xing Xie, Senzhang Wang, A Comprehensive Study on Text-attributed Graphs: Benchmarking and Rethinking, Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track. (CCF-A)
+7. **[CIKM]** Jie Xu, **Chaozhuo Li<sup>#</sup>**, Geometry Interaction Augmented Graph Collaborative Filtering, Proceedings of the 32nd ACM International Conference on Information and Knowledge Management. (CCF-B)
+8. **[CIKM]** Juyong Jiang, Peiyan Zhang, Yingtao Luo, **Chaozhuo Li<sup>#</sup>**, Jae Boum Kim, Kai Zhang, Senzhang Wang, Xing Xie, Sunghun Kim, AdaMCT: adaptive mixture of CNN-transformer for sequential recommendation, Proceedings of the 32nd ACM International Conference on Information and Knowledge Management. (CCF-B)
+9. **[WISE]** Chen Ji, Jilu Wang, Jie Xu, Wenxiao Liu, Zihong Yang, Feiran Huang, Chaozhuo Li, Improving Conversational Recommender Systems via Knowledge-Enhanced Temporal Embedding, International Conference on Web Information Systems Engineering. (CCF-C)
+10. **[Information]** Muzi Cui, Hao Jiang, **Chaozhuo Li<sup>#</sup>**, Progressive-Augmented-Based DeepFill for High-Resolution Image Inpainting, Information.
+11. **[ECML-PKDD]** Hao Yan, Senzhang Wang, Jun Yin, Chaozhuo Li, Junxing Zhu, Jianxin Wang, Hierarchical Graph Contrastive Learning, Joint European Conference on Machine Learning and Knowledge Discovery in Databases. (CCF-B)
+12. **[KDD]** Zhoujin Tian, **Chaozhuo Li<sup>#</sup>**, Zhiqiang Zuo, Zengxuan Wen, Lichao Sun, Xinyue Hu, Wen Zhang, Haizhen Huang, Senzhang Wang, Weiwei Deng, Xing Xie, Qi Zhang, Pass: Personalized advertiser-aware sponsored search, Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (CCF-A)
+13. **[KDD-CUP]** Yuxuan Lei, Xiaolong Chen, Defu Lian, Peiyan Zhang, Jianxun Lian, **Chaozhuo Li<sup>#</sup>**, Xing Xie, Practical Content-aware Session-based Recommendation: Deep Retrieve then Shallow Rank, Amazon KDD Cup 2023 Workshop
+. 
+14. **[SIGIR]** Yi Zhao, **Chaozhuo Li<sup>#</sup>**, Jiquan Peng, Xiaohan Fang, Feiran Huang, Senzhang Wang, Xing Xie, Jibing Gong, Beyond the overlapping users: cross-domain recommendation via adaptive anchor link learning, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. (CCF-A)
+15. **[SIGIR]** Zhoujin Tian, **Chaozhuo Li<sup>#</sup>**, Zhiqiang Zuo, Zengxuan Wen, Xinyue Hu, Xiao Han, Haizhen Huang, Senzhang Wang, Weiwei Deng, Xing Xie, Qi Zhang, Multi-grained topological pre-training of language models in sponsored search, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. (CCF-A)
+16. **[ICME]** Jiquan Peng, **Chaozhuo Li<sup>#</sup>**, Yi Zhao, Yuting Lin, Xiaohan Fang, Jibing Gong, Improving Vision Transformers with Nested Multi-head Attentions, 2023 IEEE International Conference on Multimedia and Expo (ICME). (CCF-B)
+17. **[WISE]** Yingze Xie, Jie Xu, Liqiang Qiao, Yun Liu, Feiran Huang, Chaozhuo Li, Generative Sentiment Transfer via Adaptive Masking, Pacific-Asia Conference on Knowledge Discovery and Data Mining. (CCF-C)
+18. **[ACL]** Rui Li, Xu Chen, **Chaozhuo Li<sup>#</sup>**, Yanming Shen, Jianan Zhao, Yujing Wang, Weihao Han, Hao Sun, Weiwei Deng, Qi Zhang, Xing Xie, To Copy Rather Than Memorize: A Vertical Learning Paradigm for Knowledge Graph Completion, Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics. (CCF-A)
+19. **[SIGIR]** Peiyan Zhang, Yuchen Yan, **Chaozhuo Li<sup>#</sup>**, Senzhang Wang, Xing Xie, Guojie Song, Sunghun Kim, Continual Learning on Dynamic Graphs via Parameter Isolation, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. (CCF-A)
+20. **[TNNLS]** Jie Xu, **Chaozhuo Li<sup>#</sup>**, Feiran Huang, Zhoujun Li, Xing Xie, S Yu Philip, Sinkhorn Distance Minimization for Adaptive Semi-Supervised Social Network Alignment, IEEE Transactions on Neural Networks and Learning Systems
+. (CCF-B，Top期刊)
+21. **[WWW]** Xiran Song, Jianxun Lian, Hong Huang, Zihan Luo, Wei Zhou, Xue Lin, Mingqi Wu, **Chaozhuo Li**, Xing Xie, Hai Jin, xGCN: An Extreme Graph Convolutional Network for Large-scale Social Link Prediction, Proceedings of the ACM Web Conference 2023. (CCF-A)
+22. **[TKDE]** **Chaozhuo Li**, Senzhang Wang, Jie Xu, Zheng Liu, Hao Wang, Xing Xie, Lei Chen, S Yu Philip, Semi-Supervised Variational User Identity Linkage via Noise-Aware Self-Learning, IEEE Transactions on Knowledge and Data Engineering. (CCF-A)
+23. **[WSDM]** Peiyan Zhang, Jiayan Guo, Chaozhuo Li, Yueqi Xie, Jae Boum Kim, Yan Zhang, Xing Xie, Haohan Wang, Sunghun Kim, Efficiently leveraging multi-level user intent for session-based recommendation via atten-mixer network
+, Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining. (CCF-B)
+24. **[SDM]** Senzhang Wang, Hao Yan, Jinlong Du, Jun Yin, Junxing Zhu, Chaozhuo Li, Jianxin Wang, Adversarial Hard Negative Generation for Complementary Graph Contrastive Learning, Proceedings of the 2023 SIAM International Conference on Data Mining (SDM). (CCF-B)
 
-<b>Dual Self-Attention with Co-Attention Networks for Visual Question Answering</b> <br> Yun Liu, Xiaoming Zhang, Qianyun Zhang, <b>Chaozhuo Li</b>, Feiran Huang, Xianghong Tang, Zhoujun Li <i>  Pattern Recognition <b>(PR 2021)</b></i>.
+# 2022
+1. **[TOIS]** Yiqi Wang, **Chaozhuo Li<sup>#</sup>**, Zheng Liu, Mingzheng Li, Jiliang Tang, Xing Xie, Lei Chen, Philip S Yu, An adaptive graph pre-training framework for localized collaborative filtering, ACM Transactions on Information Systems
+. (CCF-A)
+2. **[ICLR]** Jianan Zhao, Meng Qu, **Chaozhuo Li<sup>#</sup>**, Hao Yan, Qian Liu, Rui Li, Xing Xie, Jian Tang, Learning on large-scale text-attributed graphs via variational inference, The Eleventh International Conference on Learning Representations.
+3. **[EMNLP]** Zhoujin Tian, **Chaozhuo Li<sup>#</sup>**, Shuo Ren, Zhiqiang Zuo, Zengxuan Wen, Xinyue Hu, Xiao Han, Haizhen Huang, Denvy Deng, Qi Zhang, Xing Xie, RAPO: An Adaptive Ranking Paradigm for Bilingual Lexicon Induction, Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing. (CCF-B)
+4. **[CIKM]** Jiayan Guo, Peiyan Zhang, **Chaozhuo Li**, Xing Xie, Yan Zhang, Sunghun Kim, Evolutionary preference learning via graph nested gru ode for session-based recommendation, Proceedings of the 31st ACM International Conference on Information & Knowledge Management. (CCF-B)
+5. **[KDD]** Bochen Pang, **Chaozhuo Li<sup>#</sup>**, Yuming Liu, Jianxun Lian, Jianan Zhao, Hao Sun, Weiwei Deng, Xing Xie, Qi Zhang, Improving relevance modeling via heterogeneous behavior graph learning in bing ads, Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (CCF-A)
+6. **[KDD]** Ruichao Yang, Xiting Wang, Yiqiao Jin, **Chaozhuo Li**, Jianxun Lian, Xing Xie, Reinforcement subgraph reasoning for fake news detection, Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (CCF-A)
+7. **[Scientific Data]** Estee Y Cramer, Yuxin Huang, Yijin Wang, Evan L Ray... **Chaozhuo Li**, ..., The united states covid-19 forecast hub dataset, Scientific data. (Nature子刊)
+8. **[SIGIR]** Yiding Zhang, **Chaozhuo Li<sup>*</sup>**, Xing Xie, Xiao Wang, Chuan Shi, Yuming Liu, Hao Sun, Liangjie Zhang, Weiwei Deng, Qi Zhang, Geometric disentangled collaborative filtering, Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. (CCF-A)
+9. **[SIGIR]** Xinyan Fan, Jianxun Lian, Wayne Xin Zhao, Zheng Liu, **Chaozhuo Li**, Xing Xie, Ada-Ranker: A Data Distribution Adaptive Ranking Paradigm for Sequential Recommendation, Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. (CCF-A)
+10. **[ICML]** Zhongyu Huang, Yingheng Wang, **Chaozhuo Li**, Huiguang He, Going deeper into permutation-sensitive graph neural networks, International Conference on Machine Learning. (CCF-A)
+11. **[ICML]** Rui Li, Jianan Zhao, **Chaozhuo Li<sup>#</sup>**, Di He, Yiqi Wang, Yuming Liu, Hao Sun, Senzhang Wang, Weiwei Deng, Yanming Shen, Xing Xie, Qi Zhang, House: Knowledge graph embedding with householder parameterization, International Conference on Machine Learning. (CCF-A)
+12. **[ICDE]** Zhen Wu, Jingya Zhou, Ling Liu, **Chaozhuo Li**, Fei Gu, Deep popularity prediction in multi-source cascade with HERI-GCN, 2022 IEEE 38th International Conference on Data Engineering (ICDE). (CCF-A)
+13. **[WWW]** Shitao Xiao, Zheng Liu, Weihao Han, Jianjin Zhang, Yingxia Shao, Defu Lian, **Chaozhuo Li**, Hao Sun, Denvy Deng, Liangjie Zhang, Qi Zhang, Xing Xie, Progressively optimized bi-granular document representation for scalable embedding based retrieval, Proceedings of the ACM Web Conference 2022. (CCF-A)
+14. **[PNAS]**  Estee Y Cramer, Yuxin Huang, Yijin Wang, Evan L Ray... **Chaozhuo Li**, ..., Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the United States, Proceedings of the National Academy of Sciences. (Top期刊)
+15. **[SDM]** Yiqi Wang, **Chaozhuo Li**, Mingzheng Li, Wei Jin, Yuming Liu, Hao Sun, Xing Xie, Jiliang Tang, Localized graph collaborative filtering, Proceedings of the 2022 SIAM International Conference on Data Mining (SDM). (CCF-B)
 
-<b>Visual Sentiment Analysis With Social Relations-Guided Multiattention Networks</b> <br> Jie Xu, Zhoujun Li, Feiran Huang, <b>Chaozhuo Li</b>, Philip S. Yu <i>  IEEE Transactions on Cybernetics <b>(IEEE T CYBERNETICS 2020)</b></i>.
+# 2021
+1. **[NeurIPS]** Junhan Yang, Zheng Liu, Shitao Xiao, **Chaozhuo Li**, Defu Lian, Sanjay Agrawal, Amit Singh, Guangzhong Sun, Xing Xie, GraphFormers: GNN-nested transformers for representation learning on textual graph, Advances in Neural Information Processing Systems. (CCF-A)
+2. **[EMNLP]** Shuxian Bi, **Chaozhuo Li<sup>#</sup>**, Xiao Han, Zheng Liu, Xing Xie, Haizhen Huang, Zengxuan Wen, Leveraging Bidding Graphs for Advertiser-Aware Relevance Modeling in Sponsored Search, Findings of the Association for Computational Linguistics: EMNLP 2021. (CCF-B)
+3. **[CIKM]** **Chaozhuo Li**, Senzhang Wang, Feiran Huang, Jie Xu, Philip Yu, Hubness-aware User Identity Linkage, Proceedings of the 30th ACM International Conference on Information & Knowledge Management. (CCF-B)
+4. **[PR]** Yun Liu, Xiaoming Zhang, Qianyun Zhang, **Chaozhuo Li**, Feiran Huang, Xianghong Tang, Zhoujun Li, Dual self-attention with co-attention networks for visual question answering, Pattern Recognition. (CCF-B, Top期刊)
+5. **[SIGIR]** **Chaozhuo Li**, Bochen Pang, Yuming Liu, Hao Sun, Zheng Liu, Xing Xie, Tianqi Yang, Yanling Cui, Liangjie Zhang, Qi Zhang, Adsgnn: Behavior-graph augmented relevance modeling in sponsored search, Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. (CCF-A)
 
-<b>Social Image Sentiment Analysis by Exploiting Multimodal Content and Heterogeneous Relations</b> <br> Jie Xu, Zhoujun Li, Feiran Huang, <b>Chaozhuo Li</b>, Philip S. Yu <i> IEEE Transactions on Industrial Informatics <b>(TII 2020)</b></i>.
+# 2020   
+1. **[TCyber]** Jie Xu, Zhoujun Li, Feiran Huang, **Chaozhuo Li**, S Yu Philip, Visual sentiment analysis with social relations-guided multiattention networks, IEEE Transactions on Cybernetics. (CCF-B, Top期刊)
+2. **[KBS]** Zhi Li, **Chaozhuo Li**, Liqun Yang, S Yu Philip, Zhoujun Li, Mixture distribution modeling for scalable graph-based semi-supervised learning, Knowledge-Based Systems. (CCF-C, Top期刊)
+3. **[TII]** Jie Xu, Zhoujun Li, Feiran Huang, **Chaozhuo Li**, S Yu Philip, Social image sentiment analysis by exploiting multimodal content and heterogeneous relations, IEEE Transactions on Industrial Informatics. (CCF-B, Top期刊)
 
-<b>Mixture Distribution Modeling for Scalable Graph-based Semi-supervised Learning</b> <br> Zhi Li, <b>Chaozhuo Li</b>, Liqun Yang, S Yu Philip, Zhoujun Li. <i> Knowledge-based Systems <b>(KBS 2020)</b></i>.
+# 2019
+1. **[CIKM]** **Chaozhuo Li**, Senzhang Wang, Hao Wang, Yanbo Liang, Philip S Yu, Zhoujun Li, Wei Wang, Partially shared adversarial learning for semi-supervised multi-platform user identity linkage, Proceedings of the 28th ACM international conference on information and knowledge management. (CCF-B)
+2. **[CIKM]** **Chaozhuo Li**, Lei Zheng, Senzhang Wang, Feiran Huang, Philip S Yu, Zhoujun Li, Multi-hot compact network embedding, Proceedings of the 28th ACM International Conference on Information and Knowledge Management. (CCF-B)
+3. **[DSAA]** Lei Zheng, Chun-Ta Lu, Lifang He, Sihong Xie, Huang He, **Chaozhuo Li**, Vahid Noroozi, Bowen Dong, S Yu Philip, Mars: Memory attention-aware recommender system, 2019 IEEE International Conference on Data Science and Advanced Analytics (DSAA). (CCF-C)
+4. **[KBS]**  **Chaozhuo Li**, Senzhang Wang, Dejian Yang, S Yu Philip, Yanbo Liang, Zhoujun Li, Adversarial learning for multi-view network embedding on incomplete graphs, Knowledge-Based Systems. (CCF-C, Top期刊)
+5. **[EMNLP]** Hao Wang, Bing Liu, **Chaozhuo Li**, Yan Yang, Tianrui Li, Learning with noisy labels for sentence-level sentiment classification, Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing. (CCF-B)
+6. **[KBS]** Jie Xu, Feiran Huang, Xiaoming Zhang, Senzhang Wang, **Chaozhuo Li**, Zhoujun Li, Yueying He, Visual-textual sentiment classification with bi-directional multi-level attention networks, Knowledge-Based Systems. (CCF-C, Top期刊)
+7. **[SIGIR]** Lei Zheng, **Chaozhuo Li<sup>*</sup>**, Chun-Ta Lu, Jiawei Zhang, Philip S Yu, Deep distribution network: Addressing the data sparsity issue for top-n recommendation, Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval. (CCF-A)
+8. **[ASOC]** Jie Xu, Feiran Huang, Xiaoming Zhang, Senzhang Wang, **Chaozhuo Li**, Zhoujun Li, Yueying He, Sentiment analysis of social images via hierarchical deep fusion of content and links, Applied Soft Computing.
+9. **[KBS]** Feiran Huang, Xiaoming Zhang, Jie Xu, **Chaozhuo Li**, Zhoujun Li, Network embedding by fusing multimodal contents and links, Knowledge-Based Systems. (CCF-C, Top期刊)
+10. **[AAAI]** **Chaozhuo Li**, Senzhang Wang, Yukun Wang, Philip S. Yu, Yanbo Liang, Yun Liu, Zhoujun Li, Adversarial Learning for Weakly-Supervised Social Network Alignment, AAAI 2019. (CCF-A)
 
-<b>Adversarial Learning for Weakly-supervised Social Network Alignment</b> <br> <b>Chaozhuo Li</b>, Senzhang Wang, Yukun Wang, Philip S. Yu, Yanbo Liang, Yun Liu and Ji Zhoujun Li. <i>In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence <b>(AAAI 2019)</b></i>.
+# 2018
+1. **[ICDM]** **Chaozhuo Li**, Senzhang Wang, Lifang He, S Yu Philip, Yanbo Liang, Zhoujun Li, SSDMV: Semi-supervised deep social spammer detection by multi-view data fusion, 2018 IEEE International Conference on Data Mining (ICDM). (CCF-B)
+2. **[CIKM]** Yanbo Liang, Yongyang Yu, Mingjie Tang, **Chaozhuo Li**, Weiqing Yang, Weichen Xu, Ruifeng Zheng, Optimizing generalized linear models with billions of variables, Proceedings of the 27th ACM International Conference on Information and Knowledge Management. (CCF-B)
+3. **[CIKM]** **Chaozhuo Li**, Senzhang Wang, Philip S Yu, Lei Zheng, Xiaoming Zhang, Zhoujun Li, Yanbo Liang, Distribution distance minimization for unsupervised user identity linkage, Proceedings of the 27th ACM International Conference on Information and Knowledge Management. (CCF-B)
+4. **[ICMR]** Feiran Huang, Xiaoming Zhang, **Chaozhuo Li**, Zhoujun Li, Yueying He, Zhonghua Zhao, Multimodal network embedding via attention based multi-view variational autoencoder, Proceedings of the 2018 ACM on international conference on multimedia retrieval. (CCF-B)
 
+# 2017
+1. **[CIKM]** Dejian Yang, Senzhang Wang, **Chaozhuo Li<sup>#</sup>**, Xiaoming Zhang, Zhoujun Li, From properties to links: Deep network embedding on incomplete graphs, Proceedings of the 2017 ACM on Conference on Information and Knowledge Management. (CCF-B)
+2. **[WISE]** Jie Xu, **Chaozhuo Li**, Senzhang Wang, Feiran Huang, Zhoujun Li, Yueying He, Zhonghua Zhao, DTRP: a flexible deep framework for travel route planning, Web Information Systems Engineering–WISE 2017. (CCF-C)
+3. **[DASFAA]** **Chaozhuo Li**, Zhoujun Li, Senzhang Wang, Yang Yang, Xiaoming Zhang, Jianshe Zhou, Semi-supervised network embedding, Database Systems for Advanced Applications: 22nd International Conference. (CCF-B).
+4. **[DASFAA]** **Chaozhuo Li**, Senzhang Wang, Dejian Yang, Zhoujun Li, Yang Yang, Xiaoming Zhang, Jianshe Zhou, PPNE: property preserving network embedding, Database Systems for Advanced Applications: 22nd International Conference. (CCF-B)
 
-<b>Deep Distribution Network: Addressing the Data Sparsity Issue for Top-N Recommendation</b> <br> Lei Zheng, <b>Chaozhuo Li *</b>, Chun-Ta Lu, Jiawei Zhang, Philip S. Yu. <i>In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval <b>(SIGIR 2019)</b> (equal contribution)</i> .
+# 2016
+1. **[COLING]** **Chaozhuo Li**, Yu Wu, Wei Wu, Chen Xing, Zhoujun Li, Ming Zhou, Detecting context dependent messages in a conversational environment, Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics. (CCF-B)
 
-
-<b>Multi-hot compact network embedding</b> <br> <b>Chaozhuo Li</b>, Lei Zheng ,Senzhang	Wang, Philip S. Yu, Zhoujun Li, Feiran Huang. <i>In Proceedings of the 28th ACM International Conference on Information and Knowledge Management <b>(CIKM 2019)</b></i>.
-
-<b>Partially Shared Adversarial Learning For Semi-supervised Multi-platform User Identity Linkage</b> <br> <b>Chaozhuo Li</b>, Senzhang Wang, Yanbo Liang, Philip S. Yu, Zhoujun Li. <i>In Proceedings of the 28th ACM International Conference on Information and Knowledge Management <b>(CIKM 2019)</b></i>.
-
-
-<b>Adversarial learning for multi-view network embedding on incomplete graphs</b> <br> <b>Chaozhuo Li</b>, Senzhang Wang, Dejian Yang, Philip S. Yu, Yanbo Liang, Zhoujun Li. <i> Knowledge-based Systems <b>(KBS 2019)</b></i> .
-
-<b>MARS: Memory Attention-Aware Recommender System</b> <br> Lei Zheng, Chun-Ta Lu, Lifang He, Sihong Xie, He Huang, <b>Chaozhuo Li</b>, Vahid Noroozi, Bowen Dong and Philip Yu. <i>In Proceedings of 6th IEEE International Conference on 
-Data Science and Advanced Analytics <b>(DSAA 2019)</b></i>.
-
-<b>Sentiment analysis of social images via hierarchical deep fusion of content and links</b> <br> Jie Xu, Feiran Huang, Xiaoming Zhang, Senzhang Wang, <b>Chaozhuo Li</b>, Zhoujun Li and Yueying He. <i> Applied Soft Computing <b>(ASC 2019)</b></i>.
-
-<b>Learning with Noisy Labels for Sentence-level Sentiment Classification</b> <br> Hao Wang, Bing Liu, <b>Chaozhuo Li</b>, Yan Yang, and Tianrui Li. <i> 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing <b>(EMNLP 2019)</b></i>.
-
-<b>Visual-Textual Sentiment Classification with Bi-Directional Multi-Level Attention Network</b> <br> Jie Xu, Feiran Huang, Xiaoming Zhang, Senzhang Wang, <b>Chaozhuo Li</b>, Zhoujun Li and Yueying He. <i>Knowledge-based Systens <b>(KBS 2019)</b></i>.
-
-<b>Network embedding by fusing multimodal contents and links</b> <br> Feiran Huang, Xiaoming Zhang, Jie Xu, <b>Chaozhuo Li</b> and Zhoujun Li <i>Knowledge-based Systens <b>(KBS 2019)</b></i>.
-
-<b>Distribution Distance Minimization for Unsupervised User Identity Linkage</b> <br> <b>Chaozhuo Li</b>, Senzhang Wang, Philip S. Yu, Lei Zheng, Xiaoming Zhang, Zhoujun Li and Yanbo Liang. <i>In Proceedings of the 27th ACM International Conference on Information and Knowledge Management <b>(CIKM 2018)</b></i>.
-
-<b>SSDMV: Semi-Supervised Deep Social Spammer Detection by Multi-view Data Fusion </b> <br> <b>Chaozhuo Li</b>, Senzhang Wang, Lifang He, Philip S. Yu, Yanbo Liang and Zhoujun Li. <i>In Proceedings of the 2018 IEEE International
-Conference on Data Mining <b>(ICDM 2018)</b></i>.
-
-<b>Optimizing Generalized Linear Models with Billions of Variables</b> <br> Yanbo Liang, Yongyang Yu, Mingjie Tang, <b>Chaozhuo Li</b>, Weiqing Yang, Weichen Xu and Ruifeng Zheng. <i>In Proceedings of the 27th ACM International Conference on Information and Knowledge Management <b>(CIKM 2018)</b></i>.
-
-<b>Multimodal Network Embedding via Attention based Multi-view Variational Autoencoder</b> <br> Feiran Huang, Xiaoming Zhang, <b>Chaozhuo Li</b>, Zhoujun Li, Yueying He and Zhonghua Zhao <i>In Proceedings of the 2018 ACM on International Conference on Multimedia Retrieval <b>(ICMR 2018)</b></i>.
-
-
-<b>PPNE: Property Preserving Network Embedding</b> <br> <b>Chaozhuo Li</b>, Senzhang Wang, Dejian Yang, Zhoujun Li, Yang Yang and Xiaoming Zhang and Jianshe Zhou. <i>In Proceedings of the 2017 International Conference on Database Systems for Advanced Applications <b>(DASFAA 2017)</b></i>.
-
-<b>Semi-Supervised Network Embedding</b> <br> <b>Chaozhuo Li</b>, Zhoujun Li, Senzhang Wang,  Yang Yang and Xiaoming Zhang and Jianshe Zhou. <i>In Proceedings of the 2017 International Conference on Database Systems for Advanced Applications <b>(DASFAA 2017)</b></i>.
-
-<b>From Properties to Links: Deep Network Embedding on Incomplete Graphs</b> <br> Dejian Yang, <b>Chaozhuo Li *</b>, Senzhang Wang, Xiaoming Zhang and Zhoujun Li. <i>In Proceedings of the 26th ACM International Conference on Information and Knowledge Management <b>(CIKM 2017)</b> (equal contribution)</i>.
-
-<b>DTRP: A Flexible Deep Framework for Travel Route Planning</b> <br> Jie Xu, <b>Chaozhuo Li</b>, Senzhang Wang, Feiran Huang, Zhoujun Li, Yueying He and Zhonghua Zhao. <i>In Proceedings of the 2017 International Conference on Web Information Systems Engineering <b>(WISE 2017)</b></i>.
-
-<b>Detecting Context Dependent Messages in a Conversational Environment</b> <br> <b>Chaozhuo Li</b>, Yu Wu, Wei Wu, Chen Xing, Zhoujun Li and Ming Zhou. <i>In Proceedings of the 26th International Conference on Computational Linguistics <b>(COLING 2016)</b> </i>.
-
-<b>Exploring Social Network Information for Solving Cold Start in Product Recommendation</b> <br> <b>Chaozhuo Li</b>, Fang Wang, Yang Yang, Zhoujun Li, Xiaoming Zhang. <i>In Proceedings of 2015 International Conference on Web Information Systems Engineering <b>(WISE 2015)</b> </i>.
-
-<b>Using Co-evolutionary Genetic Algorithm for Intrusion Detection in Cloud</b> <br> <b>Chaozhuo Li</b>, Lin Cheng. <i>In Proceedings of Proceedings of the 2013 Fifth International Conference on Multimedia Information Networking and Security <b>(MINES 2013)</b> </i>.
-
+# 2015
+1. **[WISE]** **Chaozhuo Li**, Fang Wang, Yang Yang, Zhoujun Li, Xiaoming Zhang, Exploring social network information for solving cold start in product recommendation, Web Information Systems Engineering–WISE 2015. (CCF-C)
 
