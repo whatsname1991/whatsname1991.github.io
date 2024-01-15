@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chaozhuo Li, Microsoft Research Asia"
+title                    : "Chaozhuo Li (李朝卓), Microsoft Research Asia"
 title_separator          : "-"
 name                     : &name "Chaozhuo Li"
 description              : &description "Researcher at Microsoft Research Asia."
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chaozhuo Li"
+  name             : "Chaozhuo Li (李朝卓)"
   avatar           : "WechatIMG38.jpeg"
   bio              : "Researcher at Microsoft Research Asia."
   location         : "Beijing"
