@@ -13,7 +13,7 @@ author_profile: true
 # 2023
 1. **[EMNLP]** Junhan Yang, Zheng Liu, **Chaozhuo Li**, Guangzhong Sun, Xing Xie, Longtriever: a Pre-trained Long Text Encoder for Dense Document Retrieval, Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing. (CCF-B)
 2. **[TPAMI]** Zhongyu Huang, Yingheng Wang, **Chaozhuo Li**, Huiguang He, Growing Like a Tree: Finding Trunks From Graph Skeleton Trees, IEEE Transactions on Pattern Analysis and Machine Intelligence. (CCF-A)
-3. **[NeurIPS]** Jun Yin, **Chaozhuo Li<sup>*</sup>**, Hao Yan, Jianxun Lian, Senzhang Wang, Train Once and Explain Everywhere: Pre-training Interpretable Graph Neural Networks, Thirty-seventh Conference on Neural Information Processing Systems. (CC-A)
+3. **[NeurIPS]** Jun Yin, **Chaozhuo Li<sup>*</sup>**, Hao Yan, Jianxun Lian, Senzhang Wang, Train Once and Explain Everywhere: Pre-training Interpretable Graph Neural Networks, Thirty-seventh Conference on Neural Information Processing Systems. (CCF-A)
 4. **[NuerIPS]** Senzhang Wang, Jun Yin, Chaozhuo Li, Xing Xie, Jianxin Wang, V-InFoR: A Robust Graph Neural Networks Explainer for Structurally Corrupted Graphs, Thirty-seventh Conference on Neural Information Processing Systems
 . (CCF-A)
 5. **[NuerIPS]** Zeyu Zhang, **Chaozhuo Li<sup>*</sup>**, Xu Chen, Xing Xie, Bayesian Active Causal Discovery with Multi-Fidelity Experiments, Thirty-seventh Conference on Neural Information Processing Systems. (CCF-A)
