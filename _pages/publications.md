@@ -7,7 +7,8 @@ author_profile: true
 (# denotes corresponding author, * denotes equal contributions)
 # 2024 
 1. **[AAAI]** Litian Zhang, Xiaoming Zhang, Linfeng Han, Ziyi Zhou, Feiran Huang, **Chaozhuo Li<sup>*</sup>**, Reinforced Adaptive Knowledge Learning for Multimodal Fake News Detection, The 38th Annual AAAI Conference on Artificial Intelligence. (CCF-A).
-2. **[AAAI]** Yijun Ma, **Chaozhuo Li**, Xiao Zhou, Tail-STEAK: Improve Friend Recommendation for Tail Users via Self-Training Enhanced Knowledge Distillation, The 38th Annual AAAI Conference on Artificial Intelligence. (CCF-A). 
+2. **[AAAI]** Yijun Ma, **Chaozhuo Li**, Xiao Zhou, Tail-STEAK: Improve Friend Recommendation for Tail Users via Self-Training Enhanced Knowledge Distillation, The 38th Annual AAAI Conference on Artificial Intelligence. (CCF-A).
+3. **[ICLR]** Peiyan Zhang, Haoyang Liu, **Chaozhuo Li**, Xing Xie, Sunghun Kim, Haohan Wang, Foundation Model-oriented Robustness: Robust Image Model Evaluation with Pretrained Models, The Twelfth International Conference on Learning Representations. 
 
 
 # 2023
