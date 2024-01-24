@@ -15,4 +15,4 @@ redirect_from:
 
 # News
 
-Please refer to the publications. 
+Please refer to the publications: https://whatsname1991.github.io/publications/. 
