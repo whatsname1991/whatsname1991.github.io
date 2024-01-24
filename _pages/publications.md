@@ -8,8 +8,8 @@ author_profile: true
 # 2024 
 1. **[AAAI]** Litian Zhang, Xiaoming Zhang, Linfeng Han, Ziyi Zhou, Feiran Huang, **Chaozhuo Li<sup>*</sup>**, Reinforced Adaptive Knowledge Learning for Multimodal Fake News Detection, The 38th Annual AAAI Conference on Artificial Intelligence. (CCF-A).
 2. **[AAAI]** Yijun Ma, **Chaozhuo Li**, Xiao Zhou, Tail-STEAK: Improve Friend Recommendation for Tail Users via Self-Training Enhanced Knowledge Distillation, The 38th Annual AAAI Conference on Artificial Intelligence. (CCF-A).
-3. **[ICLR]** Peiyan Zhang, Haoyang Liu, **Chaozhuo Li<sup>#</sup>**, Xing Xie, Sunghun Kim, Haohan Wang, Foundation Model-oriented Robustness: Robust Image Model Evaluation with Pretrained Models, The Twelfth International Conference on Learning Representations. 
-
+3. **[ICLR]** Peiyan Zhang, Haoyang Liu, **Chaozhuo Li<sup>#</sup>**, Xing Xie, Sunghun Kim, Haohan Wang, Foundation Model-oriented Robustness: Robust Image Model Evaluation with Pretrained Models, The Twelfth International Conference on Learning Representations.
+4. **[WWW]** Peiyan Zhang, **Chaozhuo Li<sup>#</sup>**, Liying Kang, Feiran Huang, Senzhang Wang, Xing Xie, Sunghun Kim, High-Frequency-aware Hierarchical Contrastive Selective Coding for Representation Learning on Text Attributed Graphs, The Web Conference 2024. (CCF-A). 
 
 # 2023
 1. **[EMNLP]** Junhan Yang, Zheng Liu, **Chaozhuo Li**, Guangzhong Sun, Xing Xie, Longtriever: a Pre-trained Long Text Encoder for Dense Document Retrieval, Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing. (CCF-B)
