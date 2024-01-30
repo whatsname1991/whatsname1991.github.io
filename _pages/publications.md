@@ -36,7 +36,9 @@ author_profile: true
 21. **[WWW]** Xiran Song, Jianxun Lian, Hong Huang, Zihan Luo, Wei Zhou, Xue Lin, Mingqi Wu, **Chaozhuo Li**, Xing Xie, Hai Jin, xGCN: An Extreme Graph Convolutional Network for Large-scale Social Link Prediction, Proceedings of the ACM Web Conference 2023. (CCF-A)
 22. **[TKDE]** **Chaozhuo Li**, Senzhang Wang, Jie Xu, Zheng Liu, Hao Wang, Xing Xie, Lei Chen, S Yu Philip, Semi-Supervised Variational User Identity Linkage via Noise-Aware Self-Learning, IEEE Transactions on Knowledge and Data Engineering. (CCF-A)
 23. **[WSDM]** Peiyan Zhang, Jiayan Guo, **Chaozhuo Li**, Yueqi Xie, Jae Boum Kim, Yan Zhang, Xing Xie, Haohan Wang, Sunghun Kim, Efficiently leveraging multi-level user intent for session-based recommendation via atten-mixer network, Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining. (CCF-B) **(最佳论文提名)**
-25. **[SDM]** Senzhang Wang, Hao Yan, Jinlong Du, Jun Yin, Junxing Zhu, Chaozhuo Li, Jianxin Wang, Adversarial Hard Negative Generation for Complementary Graph Contrastive Learning, Proceedings of the 2023 SIAM International Conference on Data Mining (SDM). (CCF-B)
+25. **[SDM]** Senzhang Wang, Hao Yan, Jinlong Du, Jun Yin, Junxing Zhu, **Chaozhuo Li**, Jianxin Wang, Adversarial Hard Negative Generation for Complementary Graph Contrastive Learning, Proceedings of the 2023 SIAM International Conference on Data Mining (SDM). (CCF-B)
+26. **[BigData]** Jiayi Liang, Xi Zhang, Yuming Shang, Sanchuan Guo, **Chaozhuo Li**, Clean-label Poisoning Attack against Fake News Detection Models, 2023 IEEE International Conference on Big Data (BigData).
+27. **[Computerized Medical Imaging and Graphics]** Zhihao Tang, Li Liu, Zongyi Chen, Guixiang Ma, Jiyan Dong, Xujie Sun, Xi Zhang, **Chaozhuo Li**, Qingfeng Zheng, Lin Yang, Clean-label Poisoning Attack against Fake News Detection Models, Computerized Medical Imaging and Graphics. 
 
 # 2022
 1. **[TOIS]** Yiqi Wang, **Chaozhuo Li<sup>#</sup>**, Zheng Liu, Mingzheng Li, Jiliang Tang, Xing Xie, Lei Chen, Philip S Yu, An adaptive graph pre-training framework for localized collaborative filtering, ACM Transactions on Information Systems
