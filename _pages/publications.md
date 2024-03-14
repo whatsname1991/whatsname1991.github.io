@@ -6,7 +6,6 @@ author_profile: true
 
 (# denotes corresponding author, * denotes equal contributions)
 # 2024 
-1. **[AAAI]** Litian Zhang, Xiaoming Zhang, Linfeng Han, Ziyi Zhou, Feiran Huang, **Chaozhuo Li<sup>*</sup>**, Reinforced Adaptive Knowledge Learning for Multimodal Fake News Detection, The 38th Annual AAAI Conference on Artificial Intelligence. (CCF-A).
 2. **[AAAI]** Yijun Ma, **Chaozhuo Li**, Xiao Zhou, Tail-STEAK: Improve Friend Recommendation for Tail Users via Self-Training Enhanced Knowledge Distillation, The 38th Annual AAAI Conference on Artificial Intelligence. (CCF-A).
 3. **[ICLR]** Peiyan Zhang, Haoyang Liu, **Chaozhuo Li<sup>#</sup>**, Xing Xie, Sunghun Kim, Haohan Wang, Foundation Model-oriented Robustness: Robust Image Model Evaluation with Pretrained Models, The Twelfth International Conference on Learning Representations.
 4. **[WWW]** Peiyan Zhang, **Chaozhuo Li<sup>#</sup>**, Liying Kang, Feiran Huang, Senzhang Wang, Xing Xie, Sunghun Kim, High-Frequency-aware Hierarchical Contrastive Selective Coding for Representation Learning on Text Attributed Graphs, The Web Conference 2024. (CCF-A). 
@@ -32,7 +31,6 @@ author_profile: true
 17. **[WISE]** Yingze Xie, Jie Xu, Liqiang Qiao, Yun Liu, Feiran Huang, Chaozhuo Li, Generative Sentiment Transfer via Adaptive Masking, Pacific-Asia Conference on Knowledge Discovery and Data Mining. (CCF-C) **(最佳论文提名)**
 18. **[ACL]** Rui Li, Xu Chen, **Chaozhuo Li<sup>#</sup>**, Yanming Shen, Jianan Zhao, Yujing Wang, Weihao Han, Hao Sun, Weiwei Deng, Qi Zhang, Xing Xie, To Copy Rather Than Memorize: A Vertical Learning Paradigm for Knowledge Graph Completion, Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics. (CCF-A)
 19. **[SIGIR]** Peiyan Zhang, Yuchen Yan, **Chaozhuo Li<sup>#</sup>**, Senzhang Wang, Xing Xie, Guojie Song, Sunghun Kim, Continual Learning on Dynamic Graphs via Parameter Isolation, Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. (CCF-A)
-20. **[TNNLS]** Jie Xu, **Chaozhuo Li<sup>#</sup>**, Feiran Huang, Zhoujun Li, Xing Xie, S Yu Philip, Sinkhorn Distance Minimization for Adaptive Semi-Supervised Social Network Alignment, IEEE Transactions on Neural Networks and Learning Systems. (CCF-B，Top期刊)
 21. **[WWW]** Xiran Song, Jianxun Lian, Hong Huang, Zihan Luo, Wei Zhou, Xue Lin, Mingqi Wu, **Chaozhuo Li**, Xing Xie, Hai Jin, xGCN: An Extreme Graph Convolutional Network for Large-scale Social Link Prediction, Proceedings of the ACM Web Conference 2023. (CCF-A)
 22. **[TKDE]** **Chaozhuo Li**, Senzhang Wang, Jie Xu, Zheng Liu, Hao Wang, Xing Xie, Lei Chen, S Yu Philip, Semi-Supervised Variational User Identity Linkage via Noise-Aware Self-Learning, IEEE Transactions on Knowledge and Data Engineering. (CCF-A)
 23. **[WSDM]** Peiyan Zhang, Jiayan Guo, **Chaozhuo Li**, Yueqi Xie, Jae Boum Kim, Yan Zhang, Xing Xie, Haohan Wang, Sunghun Kim, Efficiently leveraging multi-level user intent for session-based recommendation via atten-mixer network, Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining. (CCF-B) **(最佳论文提名)**
