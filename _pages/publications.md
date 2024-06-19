@@ -6,9 +6,20 @@ author_profile: true
 
 (# denotes corresponding author, * denotes equal contributions)
 # 2024 
+1. 	Litian Zhang, Xiaoming Zhang, Ziyi Zhou, Feiran Huang, **Chaozhuo Li***: Reinforced Adaptive Knowledge Learning for Multimodal Fake News Detection. The 38th Annual AAAI Conference on Artificial Intelligence. (CCF-A). 
 2. **[AAAI]** Yijun Ma, **Chaozhuo Li**, Xiao Zhou, Tail-STEAK: Improve Friend Recommendation for Tail Users via Self-Training Enhanced Knowledge Distillation, The 38th Annual AAAI Conference on Artificial Intelligence. (CCF-A).
-3. **[ICLR]** Peiyan Zhang, Haoyang Liu, **Chaozhuo Li<sup>#</sup>**, Xing Xie, Sunghun Kim, Haohan Wang, Foundation Model-oriented Robustness: Robust Image Model Evaluation with Pretrained Models, The Twelfth International Conference on Learning Representations.
+3. **[ICLR]** Peiyan Zhang, Haoyang Liu, **Chaozhuo Li<sup>#</sup>**, Xing Xie, Sunghun Kim, Haohan Wang, Foundation Model-oriented Robustness: Robust Image Model Evaluation with Pretrained Models, The Twelfth International Conference on Learning Representations. (ICLR)
 4. **[WWW]** Peiyan Zhang, **Chaozhuo Li<sup>#</sup>**, Liying Kang, Feiran Huang, Senzhang Wang, Xing Xie, Sunghun Kim, High-Frequency-aware Hierarchical Contrastive Selective Coding for Representation Learning on Text Attributed Graphs, The Web Conference 2024. (CCF-A). 
+5. **SIGIR** GPT4Rec: Graph Prompt Tuning for Streaming Recommendation, Peiyan Zhang, Yuchen Yan, Xi Zhang, Liying Kang, **Chaozhuo Li<sup>#</sup>**, Feiran Huang, Senzhang Wang, Sunghun Kim, SIGIR. (CCF-A)
+6. **SIGIR** TransGNN: Harnessing the Collaborative Power of Transformers and Graph Neural Networks for Recommender Systems, Peiyan Zhang, Yuchen Yan, Xi Zhang, **Chaozhuo Li<sup>#</sup>**, Senzhang Wang, Feiran Huang, Sunghun Kim, SIGIR 2024. (CCF-A)
+7.  **Information Science** PPMGS: An Efficient and Effective Solution for Distributed Privacy-Preserving Semi-Supervised Learning, Zhi Li, **Chaozhuo Li<sup>#</sup>**, Zhoujun Li, Jian Weng, Feiran Huang, Zhibo Zhou, Information Sciences. (CCF-B)
+8.  **ICML** Generalizing Knowledge Graph Embedding with Universal Orthogonal Parameterization, Rui Li, **Chaozhuo Li,** Yanming Shen, Zeyu Zhang, Xu Chen, ICML
+9.  **ACL** Evidence Retrieval is almost All You Need for Fact Verification, Liwen Zheng, **Chaozhuo Li<sup>#</sup>**, Xi Zhang,  Yuming Shang, Feiran Huang, Haoran Jia, ACL 2024.
+10. **TOIS** TriMLP: A Foundational MLP-like Architecture for Sequential Recommendation, Yiheng Jiang, Yuanbo Xu, Yongjian Yang, Funing Yang, Pengyang Wang, **Chaozhuo Li,** Fuzhen Zhuang, Hui Xiong, ACM Transactions on Information Systems. (CCF-A)
+11. **[WWW]** Information Retrieval Meets Large Language Models, Zheng Liu, Yujia Zhou, Yutao Zhu, Jianxun Lian, **Chaozhuo Li,** Zhicheng Dou, Defu Lian, Jian-Yun Nie, Companion Proceedings of the ACM on Web Conference 2024. (CCF-A)
+12. **PLoS computational biology** Challenges of COVID-19 Case Forecasting in the US, 2020–2021, Velma K Lopez, Estee Y Cramer, Robert Pagano, **Chaozhuo Li**，PLoS computational biology.
+13. **TCSVT**Evit: Privacy-preserving image retrieval via encrypted vision transformer in cloud computing, Qihua Feng, Peiya Li, Zhixun Lu, Chaozhuo Li, Zefang Wang, Zhiquan Liu, Chunhui Duan, Feiran Huang, Jian Weng, IEEE Transactions on Circuits and Systems for Video Technology. (CCF-B)
+
 
 # 2023
 1. **[EMNLP]** Junhan Yang, Zheng Liu, **Chaozhuo Li**, Guangzhong Sun, Xing Xie, Longtriever: a Pre-trained Long Text Encoder for Dense Document Retrieval, Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing. (CCF-B)
