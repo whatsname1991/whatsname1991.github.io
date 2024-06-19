@@ -18,7 +18,7 @@ author_profile: true
 10. **[TOIS]** TriMLP: A Foundational MLP-like Architecture for Sequential Recommendation, Yiheng Jiang, Yuanbo Xu, Yongjian Yang, Funing Yang, Pengyang Wang, **Chaozhuo Li,** Fuzhen Zhuang, Hui Xiong, ACM Transactions on Information Systems. (CCF-A)
 11. **[WWW]** Information Retrieval Meets Large Language Models, Zheng Liu, Yujia Zhou, Yutao Zhu, Jianxun Lian, **Chaozhuo Li,** Zhicheng Dou, Defu Lian, Jian-Yun Nie, Companion Proceedings of the ACM on Web Conference 2024. (CCF-A)
 12. **[PLoS computational biology]** Challenges of COVID-19 Case Forecasting in the US, 2020–2021, Velma K Lopez, Estee Y Cramer, Robert Pagano, **Chaozhuo Li**，PLoS computational biology.
-13. **[TCSVT]**Evit: Privacy-preserving image retrieval via encrypted vision transformer in cloud computing, Qihua Feng, Peiya Li, Zhixun Lu, Chaozhuo Li, Zefang Wang, Zhiquan Liu, Chunhui Duan, Feiran Huang, Jian Weng, IEEE Transactions on Circuits and Systems for Video Technology. (CCF-B)
+13. **[TCSVT]** Evit: Privacy-preserving image retrieval via encrypted vision transformer in cloud computing, Qihua Feng, Peiya Li, Zhixun Lu, Chaozhuo Li, Zefang Wang, Zhiquan Liu, Chunhui Duan, Feiran Huang, Jian Weng, IEEE Transactions on Circuits and Systems for Video Technology. (CCF-B)
 
 
 # 2023
