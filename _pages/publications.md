@@ -16,8 +16,8 @@ author_profile: true
 8. **[SIGIR]** GPT4Rec: Graph Prompt Tuning for Streaming Recommendation, Peiyan Zhang, Yuchen Yan, Xi Zhang, Liying Kang, **Chaozhuo Li<sup>#</sup>**, Feiran Huang, Senzhang Wang, Sunghun Kim, SIGIR. (CCF-A)
 9. **[SIGIR]** TransGNN: Harnessing the Collaborative Power of Transformers and Graph Neural Networks for Recommender Systems, Peiyan Zhang, Yuchen Yan, Xi Zhang, **Chaozhuo Li<sup>#</sup>**, Senzhang Wang, Feiran Huang, Sunghun Kim, SIGIR 2024. (CCF-A)
 10.  **[Information Science]** PPMGS: An Efficient and Effective Solution for Distributed Privacy-Preserving Semi-Supervised Learning, Zhi Li, **Chaozhuo Li<sup>#</sup>**, Zhoujun Li, Jian Weng, Feiran Huang, Zhibo Zhou, Information Sciences. (CCF-B)
-11.  **[ICML]** Generalizing Knowledge Graph Embedding with Universal Orthogonal Parameterization, Rui Li, **Chaozhuo Li,** Yanming Shen, Zeyu Zhang, Xu Chen, ICML
-12.  **[ACL]** Evidence Retrieval is almost All You Need for Fact Verification, Liwen Zheng, **Chaozhuo Li<sup>#</sup>**, Xi Zhang,  Yuming Shang, Feiran Huang, Haoran Jia, ACL 2024.
+11.  **[ICML]** Generalizing Knowledge Graph Embedding with Universal Orthogonal Parameterization, Rui Li, **Chaozhuo Li,** Yanming Shen, Zeyu Zhang, Xu Chen, ICML (CCF-A)
+12.  **[ACL]** Evidence Retrieval is almost All You Need for Fact Verification, Liwen Zheng, **Chaozhuo Li<sup>#</sup>**, Xi Zhang,  Yuming Shang, Feiran Huang, Haoran Jia, ACL 2024. (CCF-A)
 13. **[TOIS]** TriMLP: A Foundational MLP-like Architecture for Sequential Recommendation, Yiheng Jiang, Yuanbo Xu, Yongjian Yang, Funing Yang, Pengyang Wang, **Chaozhuo Li,** Fuzhen Zhuang, Hui Xiong, ACM Transactions on Information Systems. (CCF-A)
 14. **[WWW]** Information Retrieval Meets Large Language Models, Zheng Liu, Yujia Zhou, Yutao Zhu, Jianxun Lian, **Chaozhuo Li,** Zhicheng Dou, Defu Lian, Jian-Yun Nie, Companion Proceedings of the ACM on Web Conference 2024. (CCF-A)
 15. **[PLoS computational biology]** Challenges of COVID-19 Case Forecasting in the US, 2020–2021, Velma K Lopez, Estee Y Cramer, Robert Pagano, **Chaozhuo Li**，PLoS computational biology.
