@@ -21,8 +21,9 @@ author_profile: true
 13. **[TOIS]** TriMLP: A Foundational MLP-like Architecture for Sequential Recommendation, Yiheng Jiang, Yuanbo Xu, Yongjian Yang, Funing Yang, Pengyang Wang, **Chaozhuo Li,** Fuzhen Zhuang, Hui Xiong, ACM Transactions on Information Systems. (CCF-A)
 14. **[WWW]** Information Retrieval Meets Large Language Models, Zheng Liu, Yujia Zhou, Yutao Zhu, Jianxun Lian, **Chaozhuo Li,** Zhicheng Dou, Defu Lian, Jian-Yun Nie, Companion Proceedings of the ACM on Web Conference 2024. (CCF-A)
 15. **[PLoS computational biology]** Challenges of COVID-19 Case Forecasting in the US, 2020–2021, Velma K Lopez, Estee Y Cramer, Robert Pagano, **Chaozhuo Li**，PLoS computational biology.
-16. **[TCSVT]** Evit: Privacy-preserving image retrieval via encrypted vision transformer in cloud computing, Qihua Feng, Peiya Li, Zhixun Lu, Chaozhuo Li, Zefang Wang, Zhiquan Liu, Chunhui Duan, Feiran Huang, Jian Weng, IEEE Transactions on Circuits and Systems for Video Technology. (CCF-B)
-
+16. **[TCSVT]** Evit: Privacy-preserving image retrieval via encrypted vision transformer in cloud computing, Qihua Feng, Peiya Li, Zhixun Lu, **Chaozhuo Li**, Zefang Wang, Zhiquan Liu, Chunhui Duan, Feiran Huang, Jian Weng, IEEE Transactions on Circuits and Systems for Video Technology. (CCF-B)
+17. **Information Fusion** Identifying the hierarchical emotional areas in the human brain through information fusion, Zhongyu Huang, Changde Du, **Chaozhuo Li**, Kaicheng Fu, Huiguang He. (CCF-B)
+18. **[TNNLS]**  Sinkhorn Distance Minimization for Adaptive Semi-Supervised Social Network Alignment, Jie Xu; **Chaozhuo Li<sup>#</sup>**, Feiran Huang; Zhoujun Li; Xing Xie; Philip S. Yu. (CCF-B)
 
 # 2023
 1. **[EMNLP]** Junhan Yang, Zheng Liu, **Chaozhuo Li**, Guangzhong Sun, Xing Xie, Longtriever: a Pre-trained Long Text Encoder for Dense Document Retrieval, Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing. (CCF-B)
