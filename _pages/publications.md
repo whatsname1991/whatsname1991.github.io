@@ -26,6 +26,7 @@ author_profile: true
 18. **[TNNLS]**  Sinkhorn Distance Minimization for Adaptive Semi-Supervised Social Network Alignment, Jie Xu; **Chaozhuo Li<sup>#</sup>**, Feiran Huang; Zhoujun Li; Xing Xie; Philip S. Yu. (CCF-B)
 19. **[PRICAI]** Generalizing Knowledge Graph Embedding with Universal Orthogonal Parameterization, Jiahui Hu,  Jie Xu, Liqiang Qiao, Feiran Huang, Jilu Wang, Jiakun Chen, **Chaozhuo Li** (CCF-C)
 20. **[PRICAI]** Context-Aware Structural Adaptive Graph Neural Networks,  Jiahui Hu, iakun Chen, Jie Xu, Liqiang Qiao, Shuo Wang and Feiran Huang, **Chaozhuo Li**, (CCF-C)
+21. **[TIST]** Advancing Session-Based Recommendations with Atten-Mixer+: Dynamic and Adaptive Multi-Level Intent Mining, Peiyan Zhang, Jiayan Guo, **Chaozhuo Li**, Jie Xu, Xi Zhang. 
 
 # 2023
 1. **[EMNLP]** Junhan Yang, Zheng Liu, **Chaozhuo Li**, Guangzhong Sun, Xing Xie, Longtriever: a Pre-trained Long Text Encoder for Dense Document Retrieval, Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing. (CCF-B)
