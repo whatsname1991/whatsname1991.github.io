@@ -29,7 +29,8 @@ author_profile: true
 21. **[TIST]** Advancing Session-Based Recommendations with Atten-Mixer+: Dynamic and Adaptive Multi-Level Intent Mining, Peiyan Zhang, Jiayan Guo, **Chaozhuo Li**, Jie Xu, Xi Zhang.
 22. **[EMNLP]** BaitAttack: Alleviating Intention Shift in Jailbreak Attacks via Adaptive Bait Crafting, Rui Pu, **Chaozhuo Li<sup>#</sup>**, Rui Ha, Litian Zhang, Lirong Qiu, Xi Zhang (CCF-B)
 23. **[Information Fusion]**  Knowledge-Aware Multimodal Pre-Training for Fake News Detection, Litian Zhang, Xiaoming Zhang, Ziyi Zhou, Xi Zhang, Philip S. Yu and **Chaozhuo Li** (CCF-B)
-
+24. **[NeurIPS]-Spotlight**  Yuefei Lyu, Sihong Xie, **Chaozhuo Li<sup>#</sup>**, Xi Zhang, Enhancing Robustness of Graph Neural Networks on Social Media with Explainable Inverse Reinforcement Learning. (CCF-A)
+ 
 # 2023
 1. **[EMNLP]** Junhan Yang, Zheng Liu, **Chaozhuo Li**, Guangzhong Sun, Xing Xie, Longtriever: a Pre-trained Long Text Encoder for Dense Document Retrieval, Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing. (CCF-B)
 2. **[TPAMI]** Zhongyu Huang, Yingheng Wang, **Chaozhuo Li**, Huiguang He, Growing Like a Tree: Finding Trunks From Graph Skeleton Trees, IEEE Transactions on Pattern Analysis and Machine Intelligence. (CCF-A)
