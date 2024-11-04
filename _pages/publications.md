@@ -30,6 +30,11 @@ author_profile: true
 22. **[EMNLP]** BaitAttack: Alleviating Intention Shift in Jailbreak Attacks via Adaptive Bait Crafting, Rui Pu, **Chaozhuo Li<sup>#</sup>**, Rui Ha, Litian Zhang, Lirong Qiu, Xi Zhang (CCF-B)
 23. **[Information Fusion]**  Knowledge-Aware Multimodal Pre-Training for Fake News Detection, Litian Zhang, Xiaoming Zhang, Ziyi Zhou, Xi Zhang, Philip S. Yu and **Chaozhuo Li** (CCF-B)
 24. **[NeurIPS]-Spotlight**  Yuefei Lyu, Sihong Xie, **Chaozhuo Li<sup>#</sup>**, Xi Zhang, Enhancing Robustness of Graph Neural Networks on Social Media with Explainable Inverse Reinforcement Learning. (CCF-A)
+25. **[WSDM]** Lighter And Better: Towards Flexible Context Adaptation For Retrieval Augmented Generation, Zheng Liu, Chenyuan Wu, Ninglu Shao, Shitao Xiao, **Chaozhuo Li**, Defu Lian. (CCF-B)
+26. **[WSDM]** MoKGNN: Boosting Graph Neural Networks via Mixture of Generic and Task-Specific Language Models, Hao Yan, **Chaozhuo Li**, Jun Yin,  Weihao Han, Hao Sun, Senzhang Wang, Jian Zhang, Jianxin Wang. (CCF-B)
+27. **[TKDE]** Learning without Missing-At-Random Prior Propensity-A Generative Approach for Recommender Systems, Yuanbo Xu, Fuzhen Zhuang, En Wang, **Chaozhuo Li**, Jie Wu. (CCF-A)
+28. **[TKDE]** Litian Zhang, Xiaoming Zhang,  Ziyi Zhou, Xi Zhang, Senzhang Wang, Philip S. Yu, **Chaozhuo Li**, Early Detection of Multimodal Fake News via Reinforced Propagation Path Generation.  (CCF-A)
+
  
 # 2023
 1. **[EMNLP]** Junhan Yang, Zheng Liu, **Chaozhuo Li**, Guangzhong Sun, Xing Xie, Longtriever: a Pre-trained Long Text Encoder for Dense Document Retrieval, Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing. (CCF-B)
