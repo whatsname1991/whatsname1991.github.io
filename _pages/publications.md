@@ -34,6 +34,8 @@ author_profile: true
 26. **[WSDM]** MoKGNN: Boosting Graph Neural Networks via Mixture of Generic and Task-Specific Language Models, Hao Yan, **Chaozhuo Li**, Jun Yin,  Weihao Han, Hao Sun, Senzhang Wang, Jian Zhang, Jianxin Wang. (CCF-B)
 27. **[TKDE]** Learning without Missing-At-Random Prior Propensity-A Generative Approach for Recommender Systems, Yuanbo Xu, Fuzhen Zhuang, En Wang, **Chaozhuo Li**, Jie Wu. (CCF-A)
 28. **[TKDE]** Litian Zhang, Xiaoming Zhang,  Ziyi Zhou, Xi Zhang, Senzhang Wang, Philip S. Yu, **Chaozhuo Li**, Early Detection of Multimodal Fake News via Reinforced Propagation Path Generation.  (CCF-A)
+29. **[TKDE]** Zeyu Zhang, **Chaozhuo Li,** Xu Chen, Xing Xie, Philip S. Yu, Meta Recommendation with Robustness Improvement.  (CCF-A)
+30. **[TKDD]**  Hao Yan, Chaozhuo Li, Jun Yin, Senzhang Wang,  Have Our Cake and Eat It: Augmentation Diversity and Semantic Consistency Balanced Graph Contrastive Learning. (CCF-B)
 
  
 # 2023
