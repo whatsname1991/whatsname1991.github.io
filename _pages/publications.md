@@ -13,7 +13,7 @@ author_profile: true
 5. **[SIGIR]** GPT4Rec: Graph Prompt Tuning for Streaming Recommendation, Peiyan Zhang, Yuchen Yan, Xi Zhang, Liying Kang, **Chaozhuo Li<sup>#</sup>**, Feiran Huang, Senzhang Wang, Sunghun Kim, SIGIR. (CCF-A)
 6. **[MM]**  Litian Zhang, Xiaoming Zhang,  **Chaozhuo Li<sup>#</sup>**, Ziyi Zhou, Xi Zhang, Mitigating Social Hazards: Early Detection of Fake News via Diffusion-Guided Propagation Path Generation （CCF-A）
 7. **[MM]** Shiqin Liu,  **Chaozhuo Li<sup>#</sup>**, Xi Zhang, Minjun Zhao, yuanbo xu, Jiajun Bu, Deeply Fusing Semantics and Interactions for Item Representation Learning via Topology-driven Pre-training (CCF-A)
-8. **[SIGIR]** GPT4Rec: Graph Prompt Tuning for Streaming Recommendation, Peiyan Zhang, Yuchen Yan, Xi Zhang, Liying Kang, **Chaozhuo Li<sup>#</sup>**, Feiran Huang, Senzhang Wang, Sunghun Kim, SIGIR. (CCF-A)
+8. **[TMI]** Zhihao Tang, Lin Yang, Zongyi Chen, Li Liu, **Chaozhuo Li<sup>#</sup>**, Ruanqi Chen, Xi Zhang, and Qingfeng Zheng, CTUSurv: A Cell-aware Transformer-based Network with Uncertainty for Survival Prediction Using Whole Slide Images. (Top期刊)
 9. **[SIGIR]** TransGNN: Harnessing the Collaborative Power of Transformers and Graph Neural Networks for Recommender Systems, Peiyan Zhang, Yuchen Yan, Xi Zhang, **Chaozhuo Li<sup>#</sup>**, Senzhang Wang, Feiran Huang, Sunghun Kim, SIGIR 2024. (CCF-A)
 10.  **[Information Science]** PPMGS: An Efficient and Effective Solution for Distributed Privacy-Preserving Semi-Supervised Learning, Zhi Li, **Chaozhuo Li<sup>#</sup>**, Zhoujun Li, Jian Weng, Feiran Huang, Zhibo Zhou, Information Sciences. (CCF-B)
 11.  **[ICML]** Generalizing Knowledge Graph Embedding with Universal Orthogonal Parameterization, Rui Li, **Chaozhuo Li,** Yanming Shen, Zeyu Zhang, Xu Chen, ICML (CCF-A)
@@ -22,7 +22,7 @@ author_profile: true
 14. **[WWW]** Information Retrieval Meets Large Language Models, Zheng Liu, Yujia Zhou, Yutao Zhu, Jianxun Lian, **Chaozhuo Li,** Zhicheng Dou, Defu Lian, Jian-Yun Nie, Companion Proceedings of the ACM on Web Conference 2024. (CCF-A)
 15. **[PLoS computational biology]** Challenges of COVID-19 Case Forecasting in the US, 2020–2021, Velma K Lopez, Estee Y Cramer, Robert Pagano, **Chaozhuo Li**，PLoS computational biology.
 16. **[TCSVT]** Evit: Privacy-preserving image retrieval via encrypted vision transformer in cloud computing, Qihua Feng, Peiya Li, Zhixun Lu, **Chaozhuo Li**, Zefang Wang, Zhiquan Liu, Chunhui Duan, Feiran Huang, Jian Weng, IEEE Transactions on Circuits and Systems for Video Technology. (CCF-B)
-17. **Information Fusion** Identifying the hierarchical emotional areas in the human brain through information fusion, Zhongyu Huang, Changde Du, **Chaozhuo Li**, Kaicheng Fu, Huiguang He. (CCF-B)
+17. **[Information Fusion]** Identifying the hierarchical emotional areas in the human brain through information fusion, Zhongyu Huang, Changde Du, **Chaozhuo Li**, Kaicheng Fu, Huiguang He. (CCF-B)
 18. **[TNNLS]**  Sinkhorn Distance Minimization for Adaptive Semi-Supervised Social Network Alignment, Jie Xu; **Chaozhuo Li<sup>#</sup>**, Feiran Huang; Zhoujun Li; Xing Xie; Philip S. Yu. (CCF-B)
 19. **[PRICAI]** Generalizing Knowledge Graph Embedding with Universal Orthogonal Parameterization, Jiahui Hu,  Jie Xu, Liqiang Qiao, Feiran Huang, Jilu Wang, Jiakun Chen, **Chaozhuo Li** (CCF-C)
 20. **[PRICAI]** Context-Aware Structural Adaptive Graph Neural Networks,  Jiahui Hu, iakun Chen, Jie Xu, Liqiang Qiao, Shuo Wang and Feiran Huang, **Chaozhuo Li**, (CCF-C)
@@ -35,7 +35,7 @@ author_profile: true
 27. **[TKDE]** Learning without Missing-At-Random Prior Propensity-A Generative Approach for Recommender Systems, Yuanbo Xu, Fuzhen Zhuang, En Wang, **Chaozhuo Li**, Jie Wu. (CCF-A)
 28. **[TKDE]** Litian Zhang, Xiaoming Zhang,  Ziyi Zhou, Xi Zhang, Senzhang Wang, Philip S. Yu, **Chaozhuo Li**, Early Detection of Multimodal Fake News via Reinforced Propagation Path Generation.  (CCF-A)
 29. **[TKDE]** Zeyu Zhang, **Chaozhuo Li,** Xu Chen, Xing Xie, Philip S. Yu, Meta Recommendation with Robustness Improvement.  (CCF-A)
-30. **[TKDD]**  Hao Yan, Chaozhuo Li, Jun Yin, Senzhang Wang,  Have Our Cake and Eat It: Augmentation Diversity and Semantic Consistency Balanced Graph Contrastive Learning. (CCF-B)
+30. **[TKDD]**  Hao Yan, **Chaozhuo Li**, Jun Yin, Senzhang Wang,  Have Our Cake and Eat It: Augmentation Diversity and Semantic Consistency Balanced Graph Contrastive Learning. (CCF-B)
 
  
 # 2023
