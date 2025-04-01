@@ -5,6 +5,14 @@ author_profile: true
 ---
 
 (# denotes corresponding author, * denotes equal contributions)
+# 2025
+1. **[AAAI]** Ziyi Zhou, Xiaoming Zhang, Shenghan Tan, Litian Zhang, Chaozhuo Li, Collaborative Evolution: Multi-Round Learning Between Large and Small Language Models for Emergent Fake News Detection. The 39th Annual AAAI Conference on Artificial Intelligence. (CCF-A)
+2. **[WSDM]** Hao Yan, Chaozhuo Li, Jun Yin, Weihao Han, Hao Sun, Senzhang Wang, Jian Zhang, Jianxin Wang, MoKGNN: Boosting Graph Neural Networks via Mixture of Generic and Task-Specific Language Models, Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining. (CCF-B)
+3. **[TKDE]** Juyong Jiang, Peiyan Zhang, Yingtao Luo, Chaozhuo Li, Jae Boum Kim, Kai Zhang, Senzhang Wang, Sunghun Kim, Philip S Yu, Improving Sequential Recommendations via Bidirectional Temporal Data Augmentation with Pre-training, IEEE Transactions on Knowledge and Data Engineering. (CCF-A)
+4. **[Information Fusion]** Zhi Li, Chaozhuo Li, Ming Li, Liqun Yang, Jian Weng, Federated graph transformer with mixture attentions for secure graph knowledge fusions, Information Fusion. (Top期刊)
+5. **[AAAI]** Yiheng Jiang, Yuanbo Xu, Yongjian Yang, Funing Yang, Pengyang Wang, Chaozhuo Li, Auto Encoding Neural Process for Multi-interest Recommendation, The 39th Annual AAAI Conference on Artificial Intelligence. (CCF-A).
+6. **[WWW]** Jun Yin, Zhengxin Zeng, Mingzheng Li, Hao Yan, Chaozhuo Li, Weihao Han, Jianjin Zhang, Ruochen Liu, Allen Sun, Denvy Deng, Feng Sun, Qi Zhang, Shirui Pan, Senzhang Wang, The Web Conference. (CCF-A)
+
 # 2024 
 1. 	**[AAAI]** Litian Zhang, Xiaoming Zhang, Ziyi Zhou, Feiran Huang, **Chaozhuo Li***: Reinforced Adaptive Knowledge Learning for Multimodal Fake News Detection. The 38th Annual AAAI Conference on Artificial Intelligence. (CCF-A). 
 2. **[AAAI]** Yijun Ma, **Chaozhuo Li**, Xiao Zhou, Tail-STEAK: Improve Friend Recommendation for Tail Users via Self-Training Enhanced Knowledge Distillation, The 38th Annual AAAI Conference on Artificial Intelligence. (CCF-A).
