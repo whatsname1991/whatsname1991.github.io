@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chaozhuo Li (李朝卓), Microsoft Research Asia"
+title                    : "Chaozhuo Li (李朝卓), Beijing University of Posts and Telecommunications "
 title_separator          : "-"
 name                     : &name "Chaozhuo Li"
-description              : &description "Researcher at Microsoft Research Asia."
+description              : &description "Researcher at Beijing University of Posts and Telecommunications ."
 url                      : https://whatsname1991.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "whatsname1991/whatsname1991.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chaozhuo Li (李朝卓)"
   avatar           : "WechatIMG38.jpeg"
-  bio              : "Researcher at Microsoft Research Asia."
+  bio              : "Beijing University of Posts and Telecommunications."
   location         : "Beijing"
   employer         :
   pubmed           : ""
