@@ -10,8 +10,6 @@ redirect_from:
 
 # About Me
 
-
-*  Chaozhuo Li
 *  Associate Researcher at Beijing University of Posts and Telecommunications (BUPT), Weixin Scholar
 
 * Dr. Li Chaozhuo received his Ph.D. in Engineering from Beihang University in 2020. During his doctoral studies, he was a visiting scholar at the University of Illinois at Urbana-Champaign (UIUC) from 2017 to 2019 under a joint training program. After graduation, he worked at Microsoft Research Asia (MSRA) from 2020 to 2024 as a Lead Researcher. His primary research interests include large language model security, natural language processing (NLP), and social network analysis.
