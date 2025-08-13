@@ -7,38 +7,40 @@ author_profile: true
 (# denotes corresponding author, * denotes equal contributions)
 # 2025
 
-1.	**[ICME]**  **Chaozhuo Li**, Hui Pang, Xi Zhang. Harnessing Counterfactual Reasoning for Explainable Multi-Modal Fact Verification with Large Language Models. In ICME 2025.
-2. **[DASFFA]** Yiqi Wang, **Chaozhuo Li†**, Wei Jin, Rui Li, Jianan Zhao. Test-Time Training for Graph Neural Networks. In DASFFA 2025.
-3. **[TIFS]** Zhi Li, **Chaozhuo Li†**, Feiran Huang, Xi Zhang, Jian Weng. LapGLP: Approximating Infinite-layer Graph Convolutions with Laplacian for Federated Recommendation. In TIFS 2025.
-4. **[ICML]** Longzhu He, **Chaozhuo Li**, Peng Tang, Sen Su. Going Deeper into Locally Differentially Private Graph Neural Networks . In ICML 2025 (Oral presentation, top 1%).
-5. **[KDD]** Hao Yan, **Chaozhuo Li†**, Jun Yin, Zhigang Yu, Weihao Han, et al. When Graph Meets Multimodal: Benchmarking and Meditating on Multimodal Attributed Graph Learning. In KDD 2025.
-6. **[IF]** Qihua Feng, Zhixun Lu, **Chaozhuo Li†**, Feiran Huang, et al. End-to-end privacy-preserving image retrieval in cloud computing via anti-perturbation attentive token-aware vision transformer. In Information Fusion 2025.
-7. **[TMC]** Qihua Feng, Chunhui Duan, Jiawei Xue, **Chaozhuo Li**, et al. Imbalanced Semi-Supervised Learning for WiFi Gesture Recognition via Dynamic Threshold-Based Spatio-Temporal Attention Networks. In TMC 2025.
-8. **[ACL]** Chaofan Li, Jianlyu Chen, Yingxia Shao, **Chaozhuo Li**, et al. Reinforced IR: A Self-Boosting Framework For Domain-Adapted Information Retrieval. In ACL 2025.
-9. **[ESWA]** Xiaohan Fang, **Chaozhuo Li**, Yi Zhao, Qian Zang, et al. Beyond Entity Alignment: Towards Complete Knowledge Graph Alignment via Entity-Relation Synergy. In Expert Systems with Applications 2025.
-10. **[TSC]** Qihua Feng, Zhixun Lu, Litian Zhang, **Chaozhuo Li†**, et al. Privacy-Preserving Image Retrieval in Cloud Computing via Adaptive Secret Keys and Self-Supervised Block-Augmented Pretraining. In TSC 2025.
-11. **[IF]** Zhi Li, **Chaozhuo Li†**, Ming Li, Liqun Yang, Jian Weng. Federated graph transformer with mixture attentions for secure graph knowledge fusions. In Information Fusion 2025.
-12. **[TKDD]** Hao Yan, Senzhang Wang, **Chaozhuo Li**, Jun Yin, et al. Have Our Cake and Eat It: Augmentation Diversity and Semantic Consistency Balanced Graph Contrastive Learning. In TKDD 2025.
-13. **[WWW]** Shiqin Liu, **Chaozhuo Li**, Minjun Zhao, Litian Zhang, Jiajun Bu. ModalSync: Synchronizing User Behavior with Multimodal Features for Multimodal Pre-training Recommendation. In WWW(Companion) 2025.
-14. **[WWW]** Zheng Liu, Chaofan Li, Shitao Xiao, **Chaozhuo Li**, et al. Fitting Into Any Shape: A Flexible LLM-Based Re-Ranker With Configurable Depth and Width. In WWW 2025.
-15. **[WWW]** Jun Yin, Zhengxin Zeng, Mingzheng Li, Hao Yan, **Chaozhuo Li**, et al. Unleash LLMs Potential for Sequential Recommendation by Coordinating Dual Dynamic Index Mechanism. In WWW 2025.
-16. **[AAAI]** Wenting Zhu, **Chaozhuo Li†**, Litian Zhang, Xi Zhang, et al. Ghidorah: Towards Robust Multi-Scale Information Diffusion Prediction via Test-Time Training. In AAAI 2025.
-17. **[AAAI]** Yiheng Jiang, Yuanbo Xu, Yongjian Yang, Funing Yang, Pengyang Wang, **Chaozhuo Li.** Auto Encoding Neural Process for Multi-interest Recommendation. In AAAI 2025.
-18. **[AAAI]** Zhihao Tang, Xi Zhang, **Chaozhuo Li**. From Representation Space to Prognostic Insights: Whole Slide Image Generation with Hierarchical Diffusion Model for Survival Prediction. In AAAI 2025.
-19. **[AAAI]** Ziyi Zhou, Xiaoming Zhang, Shenghan Tan, Litian Zhang, **Chaozhuo Li**. Collaborative evolution: Multi-round learning between large and small language models for emergent fake news detection. In AAAI 2025.
-20. **[AAAI]** Liwen Zheng, **Chaozhuo Li†**, Litian Zhang, Haoran Jia, et al. Mrr-fv: Unlocking complex fact verification with multi-hop retrieval and reasoning. In AAAI 2025.
-21. **[AAAI]** Hui Pang, **Chaozhuo Li†**, Litian Zhang, Senzhang Wang, Xi Zhang. Beyond Text: Fine-Grained Multi-Modal Fact Verification with Hypergraph Transformers. In AAAI 2025.
-22. **[AAAI]** Bo Zhang, Jianghua Zhu,** Chaozhuo Li†**, Hao Yu, et al. What is a Good Question? Assessing Question Quality via Meta-Fact Checking. In AAAI 2025.
-23. **[TOIS]** Hangtong Xu, Yuanbo Xu,** Chaozhuo Li,** Fuzhen Zhuang. Causal structure representation learning of unobserved confounders in latent space for recommendation . In TOIS 2025.
-24. **[WSDM]** Hao Yan, **Chaozhuo Li**, Jun Yin, Weihao Han, et al. MoKGNN: Boosting Graph Neural Networks via Mixture of Generic and Task-Specific Language Models. In WSDM 2025.
-25. **[WSDM]** Chenyuan Wu, Ninglu Shao, Zheng Liu, Shitao Xiao,** Chaozhuo Li**, et al. Lighter and better: Towards flexible context adaptation for retrieval augmented generation. In WSDM 2025.
-26. **[TKDE]** Juyong Jiang, Peiyan Zhang, Yingtao Luo,** Chaozhuo Li†,** et al. Improving Sequential Recommendations via Bidirectional Temporal Data Augmentation With Pre-Training. In TKDE 2025.
-27. **[IF]** Litian Zhang, Xiaoming Zhang, Ziyi Zhou, Xi Zhang, Philip S Yu, **Chaozhuo Li†**. Knowledge-aware multimodal pre-training for fake news detection. In Information Fusion 2025.
-28. **[TMI]** Zhihao Tang, Lin Yang, Zongyi Chen, Li Liu, **Chaozhuo Li†,** et al. CTUSurv: A Cell-Aware Transformer-Based Network With Uncertainty for Survival Prediction Using Whole Slide Images. In TMI 2025.
-29. **[IF]** Zhongyu Huang, Changde Du,** Chaozhuo Li,** Kaicheng Fu, Huiguang He. Identifying the hierarchical emotional areas in the human brain through information fusion. In Information Fusion 2025.
-30. **[IJCAI]** **Chaozhuo Li,** Zhihao Tang, Mingji Zhang, Zhiquan Liu, Litian Zhang, Xi Zhang. Curriculum Hierarchical Knowledge Distillation for Bias-Free Survival Prediction. In IJCAI 2025.
-31. **[IJCAI]** **Chaozhuo Li**, Tianqi Yang, Litian Zhang, Xi Zhang. Diffusion Guided Propagation Augmentation for Popularity Prediction. In IJCAI 2025.
-32. **[IJCAI]** Rui Pu, **Chaozhuo Li†**, Rui Ha, Zejian Chen, Litian Zhang, et al. Feint and Attack: Jailbreaking and Protecting LLMs via Attention Distribution Modeling. In IJCAI 2025.
+
+1. **[TIFS]** Zhi Li, **Chaozhuo Li†**, Feiran Huang, Xi Zhang, Jian Weng. LapGLP: Approximating Infinite-layer Graph Convolutions with Laplacian for Federated Recommendation. In TIFS 2025.
+2. **[ICML]** Longzhu He, **Chaozhuo Li**, Peng Tang, Sen Su. Going Deeper into Locally Differentially Private Graph Neural Networks . In ICML 2025 (Oral presentation, top 1%).
+3. **[KDD]** Hao Yan, **Chaozhuo Li†**, Jun Yin, Zhigang Yu, Weihao Han, et al. When Graph Meets Multimodal: Benchmarking and Meditating on Multimodal Attributed Graph Learning. In KDD 2025.
+4. **[IF]** Qihua Feng, Zhixun Lu, **Chaozhuo Li†**, Feiran Huang, et al. End-to-end privacy-preserving image retrieval in cloud computing via anti-perturbation attentive token-aware vision transformer. In Information Fusion 2025.
+5. **[TMC]** Qihua Feng, Chunhui Duan, Jiawei Xue, **Chaozhuo Li**, et al. Imbalanced Semi-Supervised Learning for WiFi Gesture Recognition via Dynamic Threshold-Based Spatio-Temporal Attention Networks. In TMC 2025.
+6. **[ACL]** Chaofan Li, Jianlyu Chen, Yingxia Shao, **Chaozhuo Li**, et al. Reinforced IR: A Self-Boosting Framework For Domain-Adapted Information Retrieval. In ACL 2025.
+7. **[ESWA]** Xiaohan Fang, **Chaozhuo Li**, Yi Zhao, Qian Zang, et al. Beyond Entity Alignment: Towards Complete Knowledge Graph Alignment via Entity-Relation Synergy. In Expert Systems with Applications 2025.
+8. **[TSC]** Qihua Feng, Zhixun Lu, Litian Zhang, **Chaozhuo Li†**, et al. Privacy-Preserving Image Retrieval in Cloud Computing via Adaptive Secret Keys and Self-Supervised Block-Augmented Pretraining. In TSC 2025.
+9. **[IF]** Zhi Li, **Chaozhuo Li†**, Ming Li, Liqun Yang, Jian Weng. Federated graph transformer with mixture attentions for secure graph knowledge fusions. In Information Fusion 2025.
+10. **[TKDD]** Hao Yan, Senzhang Wang, **Chaozhuo Li**, Jun Yin, et al. Have Our Cake and Eat It: Augmentation Diversity and Semantic Consistency Balanced Graph Contrastive Learning. In TKDD 2025.
+11. **[WWW]** Shiqin Liu, **Chaozhuo Li**, Minjun Zhao, Litian Zhang, Jiajun Bu. ModalSync: Synchronizing User Behavior with Multimodal Features for Multimodal Pre-training Recommendation. In WWW(Companion) 2025.
+12. **[WWW]** Zheng Liu, Chaofan Li, Shitao Xiao, **Chaozhuo Li**, et al. Fitting Into Any Shape: A Flexible LLM-Based Re-Ranker With Configurable Depth and Width. In WWW 2025.
+13. **[WWW]** Jun Yin, Zhengxin Zeng, Mingzheng Li, Hao Yan, **Chaozhuo Li**, et al. Unleash LLMs Potential for Sequential Recommendation by Coordinating Dual Dynamic Index Mechanism. In WWW 2025.
+14. **[AAAI]** Wenting Zhu, **Chaozhuo Li†**, Litian Zhang, Xi Zhang, et al. Ghidorah: Towards Robust Multi-Scale Information Diffusion Prediction via Test-Time Training. In AAAI 2025.
+15. **[AAAI]** Yiheng Jiang, Yuanbo Xu, Yongjian Yang, Funing Yang, Pengyang Wang, **Chaozhuo Li.** Auto Encoding Neural Process for Multi-interest Recommendation. In AAAI 2025.
+16. **[AAAI]** Zhihao Tang, Xi Zhang, **Chaozhuo Li**. From Representation Space to Prognostic Insights: Whole Slide Image Generation with Hierarchical Diffusion Model for Survival Prediction. In AAAI 2025.
+17. **[AAAI]** Ziyi Zhou, Xiaoming Zhang, Shenghan Tan, Litian Zhang, **Chaozhuo Li**. Collaborative evolution: Multi-round learning between large and small language models for emergent fake news detection. In AAAI 2025.
+18. **[AAAI]** Liwen Zheng, **Chaozhuo Li†**, Litian Zhang, Haoran Jia, et al. Mrr-fv: Unlocking complex fact verification with multi-hop retrieval and reasoning. In AAAI 2025.
+19. **[AAAI]** Hui Pang, **Chaozhuo Li†**, Litian Zhang, Senzhang Wang, Xi Zhang. Beyond Text: Fine-Grained Multi-Modal Fact Verification with Hypergraph Transformers. In AAAI 2025.
+20. **[AAAI]** Bo Zhang, Jianghua Zhu,** Chaozhuo Li†**, Hao Yu, et al. What is a Good Question? Assessing Question Quality via Meta-Fact Checking. In AAAI 2025.
+21. **[TOIS]** Hangtong Xu, Yuanbo Xu,** Chaozhuo Li,** Fuzhen Zhuang. Causal structure representation learning of unobserved confounders in latent space for recommendation . In TOIS 2025.
+22. **[WSDM]** Hao Yan, **Chaozhuo Li**, Jun Yin, Weihao Han, et al. MoKGNN: Boosting Graph Neural Networks via Mixture of Generic and Task-Specific Language Models. In WSDM 2025.
+23. **[WSDM]** Chenyuan Wu, Ninglu Shao, Zheng Liu, Shitao Xiao,** Chaozhuo Li**, et al. Lighter and better: Towards flexible context adaptation for retrieval augmented generation. In WSDM 2025.
+24. **[TKDE]** Juyong Jiang, Peiyan Zhang, Yingtao Luo,** Chaozhuo Li†,** et al. Improving Sequential Recommendations via Bidirectional Temporal Data Augmentation With Pre-Training. In TKDE 2025.
+25. **[IF]** Litian Zhang, Xiaoming Zhang, Ziyi Zhou, Xi Zhang, Philip S Yu, **Chaozhuo Li†**. Knowledge-aware multimodal pre-training for fake news detection. In Information Fusion 2025.
+26. **[TMI]** Zhihao Tang, Lin Yang, Zongyi Chen, Li Liu, **Chaozhuo Li†,** et al. CTUSurv: A Cell-Aware Transformer-Based Network With Uncertainty for Survival Prediction Using Whole Slide Images. In TMI 2025.
+27. **[IF]** Zhongyu Huang, Changde Du,** Chaozhuo Li,** Kaicheng Fu, Huiguang He. Identifying the hierarchical emotional areas in the human brain through information fusion. In Information Fusion 2025.
+28. **[IJCAI]** **Chaozhuo Li,** Zhihao Tang, Mingji Zhang, Zhiquan Liu, Litian Zhang, Xi Zhang. Curriculum Hierarchical Knowledge Distillation for Bias-Free Survival Prediction. In IJCAI 2025.
+29. **[IJCAI]** **Chaozhuo Li**, Tianqi Yang, Litian Zhang, Xi Zhang. Diffusion Guided Propagation Augmentation for Popularity Prediction. In IJCAI 2025.
+30. **[IJCAI]** Rui Pu, **Chaozhuo Li†**, Rui Ha, Zejian Chen, Litian Zhang, et al. Feint and Attack: Jailbreaking and Protecting LLMs via Attention Distribution Modeling. In IJCAI 2025.
+31.	**[ICME]**  **Chaozhuo Li**, Hui Pang, Xi Zhang. Harnessing Counterfactual Reasoning for Explainable Multi-Modal Fact Verification with Large Language Models. In ICME 2025.
+32. **[DASFFA]** Yiqi Wang, **Chaozhuo Li†**, Wei Jin, Rui Li, Jianan Zhao. Test-Time Training for Graph Neural Networks. In DASFFA 2025.
+33. 
 
 # 2024 
 1. 	**[AAAI]** Litian Zhang, Xiaoming Zhang, Ziyi Zhou, Feiran Huang, **Chaozhuo Li***: Reinforced Adaptive Knowledge Learning for Multimodal Fake News Detection. The 38th Annual AAAI Conference on Artificial Intelligence. (CCF-A). 
